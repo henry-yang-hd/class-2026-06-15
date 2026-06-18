@@ -1,0 +1,1249 @@
+country,player_name,position,age,birthday,club_team
+Czech Republic,Matěj Kovář,Goalkeeper,26,2000-05-17,PSV Eindhoven
+Czech Republic,David Zima,Defender,25,2000-11-08,Slavia Prague
+Czech Republic,Tomáš Holeš,Defender,33,1993-03-31,Slavia Prague
+Czech Republic,Robin Hranáč,Defender,26,2000-01-29,TSG Hoffenheim
+Czech Republic,Vladimír Coufal,Defender,33,1992-08-22,TSG Hoffenheim
+Czech Republic,Štěpán Chaloupek,Defender,23,2003-03-08,Slavia Prague
+Czech Republic,Ladislav Krejčí,Defender,27,1999-04-20,Wolverhampton Wanderers
+Czech Republic,Vladimír Darida,Midfielder,35,1990-08-08,Hradec Králové
+Czech Republic,Adam Hložek,Forward,23,2002-07-25,TSG Hoffenheim
+Czech Republic,Patrik Schick,Forward,30,1996-01-24,Bayer Leverkusen
+Czech Republic,Jan Kuchta,Forward,29,1997-01-08,Sparta Prague
+Czech Republic,Lukáš Červ,Midfielder,25,2001-04-10,Viktoria Plzeň
+Czech Republic,Mojmír Chytil,Forward,27,1999-04-29,Slavia Prague
+Czech Republic,David Jurásek,Defender,25,2000-08-07,Slavia Prague
+Czech Republic,Pavel Šulc,Forward,25,2000-12-29,Lyon
+Czech Republic,Jindřich Staněk,Goalkeeper,30,1996-04-27,Slavia Prague
+Czech Republic,Lukáš Provod,Midfielder,29,1996-10-23,Slavia Prague
+Czech Republic,Michal Sadílek,Midfielder,27,1999-05-31,Slavia Prague
+Czech Republic,Tomáš Chorý,Forward,31,1995-01-26,Slavia Prague
+Czech Republic,Jaroslav Zelený,Defender,33,1992-08-20,Sparta Prague
+Czech Republic,David Douděra,Defender,28,1998-05-31,Slavia Prague
+Czech Republic,Tomáš Souček,Midfielder,31,1995-02-27,West Ham United
+Czech Republic,Lukáš Horníček,Goalkeeper,23,2002-07-13,Braga
+Czech Republic,Alexandr Sojka,Midfielder,23,2003-04-02,Viktoria Plzeň
+Czech Republic,Hugo Sochůrek,Midfielder,18,2008-06-07,Sparta Prague
+Czech Republic,Denis Višinský,Forward,23,2003-03-21,Viktoria Plzeň
+Mexico,Raúl Rangel,Goalkeeper,26,2000-02-25,Guadalajara
+Mexico,Jorge Sánchez,Defender,28,1997-12-10,PAOK
+Mexico,César Montes,Defender,29,1997-02-24,Lokomotiv Moscow
+Mexico,Edson Álvarez,Defender,28,1997-10-24,Fenerbahçe
+Mexico,Johan Vásquez,Defender,27,1998-10-22,Genoa
+Mexico,Érik Lira,Midfielder,26,2000-05-08,Cruz Azul
+Mexico,Luis Romo,Midfielder,31,1995-06-05,Guadalajara
+Mexico,Álvaro Fidalgo,Midfielder,29,1997-04-09,Real Betis
+Mexico,Raúl Jiménez,Forward,35,1991-05-05,Fulham
+Mexico,Alexis Vega,Forward,28,1997-11-25,Toluca
+Mexico,Santiago Giménez,Forward,25,2001-04-18,Milan
+Mexico,Carlos Acevedo,Goalkeeper,30,1996-04-19,Santos Laguna
+Mexico,Guillermo Ochoa,Goalkeeper,40,1985-07-13,AEL Limassol
+Mexico,Armando González,Forward,23,2003-04-20,Guadalajara
+Mexico,Israel Reyes,Defender,26,2000-05-23,América
+Mexico,Julián Quiñones,Forward,29,1997-03-24,Al-Qadsiah
+Mexico,Orbelín Pineda,Midfielder,30,1996-03-24,AEK Athens
+Mexico,Obed Vargas,Midfielder,20,2005-08-05,Atlético Madrid
+Mexico,Gilberto Mora,Midfielder,17,2008-10-14,Tijuana
+Mexico,Mateo Chávez,Defender,22,2004-05-12,AZ
+Mexico,César Huerta,Forward,25,2000-12-03,Anderlecht
+Mexico,Guillermo Martínez,Forward,31,1995-03-15,Pumas UNAM
+Mexico,Jesús Gallardo,Defender,31,1994-08-15,Toluca
+Mexico,Luis Chávez,Midfielder,30,1996-01-15,Dynamo Moscow
+Mexico,Roberto Alvarado,Forward,27,1998-09-07,Guadalajara
+Mexico,Brian Gutiérrez,Midfielder,22,2003-06-17,Guadalajara
+South Africa,Ronwen Williams,Goalkeeper,34,1992-01-21,Mamelodi Sundowns
+South Africa,Thabang Matuludi,Defender,27,1999-01-14,Polokwane City
+South Africa,Khulumani Ndamane,Defender,22,2004-02-05,Mamelodi Sundowns
+South Africa,Teboho Mokoena,Midfielder,29,1997-01-24,Mamelodi Sundowns
+South Africa,Thalente Mbatha,Midfielder,26,2000-03-06,Orlando Pirates
+South Africa,Aubrey Modiba,Defender,30,1995-07-22,Mamelodi Sundowns
+South Africa,Oswin Appollis,Forward,24,2001-08-25,Orlando Pirates
+South Africa,Tshepang Moremi,Forward,25,2000-10-02,Orlando Pirates
+South Africa,Lyle Foster,Forward,25,2000-09-03,Burnley
+South Africa,Relebohile Mofokeng,Forward,21,2004-10-23,Orlando Pirates
+South Africa,Themba Zwane,Midfielder,36,1989-08-03,Mamelodi Sundowns
+South Africa,Thapelo Maseko,Forward,22,2003-11-11,AEL Limassol
+South Africa,Sphephelo Sithole,Midfielder,27,1999-03-03,Tondela
+South Africa,Mbekezeli Mbokazi,Defender,20,2005-09-19,Chicago Fire FC
+South Africa,Iqraam Rayners,Forward,30,1995-12-19,Mamelodi Sundowns
+South Africa,Sipho Chaine,Goalkeeper,29,1996-12-14,Orlando Pirates
+South Africa,Evidence Makgopa,Forward,26,2000-06-05,Orlando Pirates
+South Africa,Samukele Kabini,Defender,22,2004-03-15,Molde
+South Africa,Nkosinathi Sibisi,Defender,30,1995-09-22,Orlando Pirates
+South Africa,Khuliso Mudau,Defender,31,1995-04-26,Mamelodi Sundowns
+South Africa,Ime Okon,Defender,22,2004-02-20,Hannover 96
+South Africa,Ricardo Goss,Goalkeeper,32,1994-04-02,Siwelele
+South Africa,Jayden Adams,Midfielder,25,2001-05-05,Mamelodi Sundowns
+South Africa,Olwethu Makhanya,Defender,22,2004-04-30,
+South Africa,Kamogelo Sebelebele,Forward,23,2002-07-21,Orlando Pirates
+South Africa,Bradley Cross,Defender,25,2001-01-30,Kaizer Chiefs
+South Korea,Kim Seung-gyu,Goalkeeper,35,1990-09-30,FC Tokyo
+South Korea,Lee Han-beom,Defender,23,2002-06-17,Midtjylland
+South Korea,Lee Gi-hyuk,Midfielder,25,2000-07-07,Gangwon FC
+South Korea,Kim Min-jae,Defender,29,1996-11-15,Bayern Munich
+South Korea,Kim Tae-hyeon,Defender,25,2000-09-17,Kashima Antlers
+South Korea,Hwang In-beom,Midfielder,29,1996-09-20,Feyenoord
+South Korea,Son Heung-min,Forward,33,1992-07-08,Los Angeles FC
+South Korea,Paik Seung-ho,Midfielder,29,1997-03-17,Birmingham City
+South Korea,Cho Gue-sung,Forward,28,1998-01-25,Midtjylland
+South Korea,Lee Jae-sung,Midfielder,33,1992-08-10,Mainz 05
+South Korea,Hwang Hee-chan,Midfielder,30,1996-01-26,Wolverhampton Wanderers
+South Korea,Song Bum-keun,Goalkeeper,28,1997-10-15,Jeonbuk Hyundai Motors
+South Korea,Lee Tae-seok,Defender,23,2002-07-28,Austria Wien
+South Korea,Cho Wi-je,Defender,24,2001-08-25,Jeonbuk Hyundai Motors
+South Korea,Kim Moon-hwan,Defender,30,1995-08-01,Daejeon Hana Citizen
+South Korea,Park Jin-seob,Defender,30,1995-10-23,Zhejiang
+South Korea,Bae Jun-ho,Midfielder,22,2003-08-21,Stoke City
+South Korea,Oh Hyeon-gyu,Forward,25,2001-04-12,Beşiktaş
+South Korea,Lee Kang-in,Midfielder,25,2001-02-19,Paris Saint-Germain
+South Korea,Yang Hyun-jun,Midfielder,24,2002-05-25,Celtic
+South Korea,Jo Hyeon-woo,Goalkeeper,34,1991-09-25,Ulsan HD
+South Korea,Seol Young-woo,Defender,27,1998-12-05,Red Star Belgrade
+South Korea,Jens Castrop,Defender,22,2003-07-29,Borussia Mönchengladbach
+South Korea,Kim Jin-gyu,Midfielder,29,1997-02-24,Jeonbuk Hyundai Motors
+South Korea,Eom Ji-sung,Midfielder,24,2002-05-09,Swansea City
+South Korea,Lee Dong-gyeong,Midfielder,28,1997-09-20,Ulsan HD
+Bosnia and Herzegovina,Nikola Vasilj,Goalkeeper,30,1995-12-02,FC St. Pauli
+Bosnia and Herzegovina,Nihad Mujakić,Defender,28,1998-04-15,Gaziantep
+Bosnia and Herzegovina,Dennis Hadžikadunić,Defender,27,1998-07-09,Sampdoria
+Bosnia and Herzegovina,Tarik Muharemović,Defender,23,2003-02-28,Sassuolo
+Bosnia and Herzegovina,Sead Kolašinac,Defender,32,1993-06-20,Atalanta
+Bosnia and Herzegovina,Benjamin Tahirović,Midfielder,23,2003-03-03,Brøndby
+Bosnia and Herzegovina,Amar Dedić,Defender,23,2002-08-18,Benfica
+Bosnia and Herzegovina,Armin Gigović,Midfielder,24,2002-04-06,Young Boys
+Bosnia and Herzegovina,Samed Baždar,Forward,22,2004-01-31,Jagiellonia Białystok
+Bosnia and Herzegovina,Ermedin Demirović,Forward,28,1998-03-25,VfB Stuttgart
+Bosnia and Herzegovina,Edin Džeko,Forward,40,1986-03-17,Schalke 04
+Bosnia and Herzegovina,Mladen Jurkas,Goalkeeper,18,2007-10-07,Borac Banja Luka
+Bosnia and Herzegovina,Ivan Bašić,Midfielder,24,2002-04-30,Astana
+Bosnia and Herzegovina,Ivan Šunjić,Midfielder,29,1996-10-09,Pafos
+Bosnia and Herzegovina,Amar Memić,Midfielder,25,2001-01-20,Viktoria Plzeň
+Bosnia and Herzegovina,Amir Hadžiahmetović,Midfielder,29,1997-03-08,Hull City
+Bosnia and Herzegovina,Dženis Burnić,Midfielder,28,1998-05-22,Karlsruher SC
+Bosnia and Herzegovina,Nikola Katić,Defender,29,1996-10-10,Schalke 04
+Bosnia and Herzegovina,Kerim Alajbegović,Forward,18,2007-09-21,Red Bull Salzburg
+Bosnia and Herzegovina,Esmir Bajraktarević,Forward,21,2005-03-10,PSV Eindhoven
+Bosnia and Herzegovina,Stjepan Radeljić,Defender,28,1997-09-05,Rijeka
+Bosnia and Herzegovina,Martin Zlomislić,Goalkeeper,27,1998-08-16,Rijeka
+Bosnia and Herzegovina,Haris Tabaković,Forward,31,1994-06-20,Borussia Mönchengladbach
+Bosnia and Herzegovina,Arjan Malić,Defender,20,2005-08-28,Sturm Graz
+Bosnia and Herzegovina,Jovo Lukić,Forward,27,1998-11-28,Universitatea Cluj
+Bosnia and Herzegovina,Ermin Mahmić,Midfielder,21,2005-03-14,Slovan Liberec
+Canada,Dayne St. Clair,Goalkeeper,29,1997-05-09,Inter Miami CF
+Canada,Alistair Johnston,Defender,27,1998-10-08,Celtic
+Canada,Alfie Jones,Defender,28,1997-10-07,Middlesbrough
+Canada,Luc de Fougerolles,Defender,20,2005-10-12,Dender
+Canada,Joel Waterman,Defender,30,1996-01-24,Chicago Fire FC
+Canada,Mathieu Choinière,Midfielder,27,1999-02-07,Los Angeles FC
+Canada,Stephen Eustáquio,Midfielder,29,1996-12-21,Los Angeles FC
+Canada,Ismaël Koné,Midfielder,23,2002-06-16,Sassuolo
+Canada,Cyle Larin,Forward,31,1995-04-17,Southampton
+Canada,Jonathan David,Forward,26,2000-01-14,Juventus
+Canada,Liam Millar,Midfielder,26,1999-09-27,Hull City
+Canada,Tani Oluwaseyi,Forward,26,2000-05-15,Villarreal
+Canada,Derek Cornelius,Defender,28,1997-11-25,Rangers
+Canada,Jacob Shaffelburg,Midfielder,26,1999-11-26,Los Angeles FC
+Canada,Moïse Bombito,Defender,26,2000-03-30,Nice
+Canada,Maxime Crépeau,Goalkeeper,32,1994-05-11,Orlando City SC
+Canada,Tajon Buchanan,Forward,27,1999-02-08,Villarreal
+Canada,Owen Goodman,Goalkeeper,22,2003-11-27,Barnsley
+Canada,Alphonso Davies,Defender,25,2000-11-02,Bayern Munich
+Canada,Ali Ahmed,Forward,25,2000-10-10,Norwich City
+Canada,Jonathan Osorio,Midfielder,33,1992-06-12,Toronto FC
+Canada,Richie Laryea,Defender,31,1995-01-07,Toronto FC
+Canada,Niko Sigur,Defender,22,2003-09-09,Hajduk Split
+Canada,Promise David,Forward,24,2001-07-03,Saint-Gilloise
+Canada,Nathan Saliba,Midfielder,22,2004-02-07,Anderlecht
+Canada,Jayden Nelson,Forward,23,2002-09-26,Austin FC
+Qatar,Mahmud Abunada,Goalkeeper,26,2000-02-05,Al-Rayyan
+Qatar,Pedro Miguel,Defender,35,1990-08-06,Al-Sadd
+Qatar,Lucas Mendes,Defender,35,1990-07-03,Al-Wakrah
+Qatar,Issa Laye,Defender,28,1997-12-22,Al-Arabi
+Qatar,Jassem Gaber,Defender,24,2002-02-20,Al-Rayyan
+Qatar,Abdulaziz Hatem,Midfielder,36,1990-01-01,Al-Rayyan
+Qatar,Ahmed Alaaeldin,Forward,33,1993-01-31,Al-Rayyan
+Qatar,Edmilson Junior,Forward,31,1994-08-19,Al-Duhail
+Qatar,Mohammed Muntari,Forward,32,1993-12-20,Al-Gharafa
+Qatar,Hassan Al-Haydos,Forward,35,1990-12-11,Al-Sadd
+Qatar,Akram Afif,Forward,29,1996-11-18,Al-Sadd
+Qatar,Karim Boudiaf,Midfielder,35,1990-09-16,Al-Duhail
+Qatar,Ayoub Al-Oui,Defender,21,2005-03-11,Al-Gharafa
+Qatar,Homam Ahmed,Defender,26,1999-08-25,Cultural Leonesa
+Qatar,Yusuf Abdurisag,Forward,26,1999-08-06,Al-Wakrah
+Qatar,Boualem Khoukhi,Defender,35,1990-07-09,Al-Sadd
+Qatar,Ahmed Al-Ganehi,Midfielder,25,2000-09-22,Al-Gharafa
+Qatar,Sultan Al-Brake,Defender,30,1996-04-07,Al-Duhail
+Qatar,Almoez Ali,Forward,29,1996-08-19,Al-Duhail
+Qatar,Ahmed Fathy,Midfielder,33,1993-01-25,Al-Arabi
+Qatar,Salah Zakaria,Goalkeeper,27,1999-04-24,Al-Duhail
+Qatar,Meshaal Barsham,Goalkeeper,28,1998-02-14,Al-Sadd
+Qatar,Assim Madibo,Midfielder,29,1996-10-22,Al-Wakrah
+Qatar,Tahsin Jamshid,Forward,19,2006-06-16,Al-Duhail
+Qatar,Al-Hashmi Al-Hussain,Defender,22,2003-08-15,Al-Arabi
+Qatar,Mohamed Manai,Forward,23,2002-10-25,Al-Shamal
+Switzerland,Gregor Kobel,Goalkeeper,28,1997-12-06,Borussia Dortmund
+Switzerland,Miro Muheim,Defender,28,1998-03-24,Hamburger SV
+Switzerland,Silvan Widmer,Defender,33,1993-03-05,Mainz 05
+Switzerland,Nico Elvedi,Defender,29,1996-09-30,Borussia Mönchengladbach
+Switzerland,Manuel Akanji,Defender,30,1995-07-19,Inter Milan
+Switzerland,Denis Zakaria,Midfielder,29,1996-11-20,Monaco
+Switzerland,Breel Embolo,Forward,29,1997-02-14,Rennes
+Switzerland,Remo Freuler,Midfielder,34,1992-04-15,Bologna
+Switzerland,Johan Manzambi,Midfielder,20,2005-10-14,SC Freiburg
+Switzerland,Granit Xhaka,Midfielder,33,1992-09-27,Sunderland
+Switzerland,Dan Ndoye,Forward,25,2000-10-25,Nottingham Forest
+Switzerland,Yvon Mvogo,Goalkeeper,32,1994-06-06,Lorient
+Switzerland,Ricardo Rodriguez,Defender,33,1992-08-25,Real Betis
+Switzerland,Ardon Jashari,Midfielder,23,2002-07-30,Milan
+Switzerland,Djibril Sow,Midfielder,29,1997-02-06,Sevilla
+Switzerland,Christian Fassnacht,Forward,32,1993-11-11,Young Boys
+Switzerland,Rubén Vargas,Forward,27,1998-08-05,Sevilla
+Switzerland,Eray Cömert,Defender,28,1998-02-04,Valencia
+Switzerland,Noah Okafor,Forward,26,2000-05-24,Leeds United
+Switzerland,Michel Aebischer,Midfielder,29,1997-01-06,Pisa
+Switzerland,Marvin Keller,Goalkeeper,23,2002-07-03,Young Boys
+Switzerland,Fabian Rieder,Midfielder,24,2002-02-16,FC Augsburg
+Switzerland,Zeki Amdouni,Forward,25,2000-12-04,Burnley
+Switzerland,Aurèle Amenda,Defender,22,2003-07-31,Eintracht Frankfurt
+Switzerland,Luca Jaquez,Defender,23,2003-06-02,VfB Stuttgart
+Switzerland,Cedric Itten,Forward,29,1996-12-27,Fortuna Düsseldorf
+Brazil,Alisson,Goalkeeper,33,1992-10-02,Liverpool
+Brazil,Éderson Silva,Midfielder,26,1999-07-07,Atalanta
+Brazil,Gabriel Magalhães,Defender,28,1997-12-19,Arsenal
+Brazil,Marquinhos,Defender,32,1994-05-14,Paris Saint-Germain
+Brazil,Casemiro,Midfielder,34,1992-02-23,Manchester United
+Brazil,Alex Sandro,Defender,35,1991-01-26,Flamengo
+Brazil,Vinícius Júnior,Forward,25,2000-07-12,Real Madrid
+Brazil,Bruno Guimarães,Midfielder,28,1997-11-16,Newcastle United
+Brazil,Matheus Cunha,Forward,27,1999-05-27,Manchester United
+Brazil,Neymar,Forward,34,1992-02-05,Santos
+Brazil,Raphinha,Forward,29,1996-12-14,Barcelona
+Brazil,Weverton,Goalkeeper,38,1987-12-13,Grêmio
+Brazil,Danilo Luiz,Defender,34,1991-07-15,Flamengo
+Brazil,Bremer,Defender,29,1997-03-18,Juventus
+Brazil,Léo Pereira,Defender,30,1996-01-31,Flamengo
+Brazil,Douglas Santos,Defender,32,1994-03-22,Zenit Saint Petersburg
+Brazil,Fabinho,Midfielder,32,1993-10-23,Al-Ittihad
+Brazil,Danilo Santos,Midfielder,25,2001-04-29,Botafogo
+Brazil,Endrick,Forward,19,2006-07-21,Lyon
+Brazil,Lucas Paquetá,Midfielder,28,1997-08-27,Flamengo
+Brazil,Luiz Henrique,Forward,25,2001-01-02,Zenit Saint Petersburg
+Brazil,Gabriel Martinelli,Forward,24,2001-06-18,Arsenal
+Brazil,Ederson Moraes,Goalkeeper,32,1993-08-17,Fenerbahçe
+Brazil,Roger Ibañez,Defender,27,1998-11-23,Al-Ahli
+Brazil,Igor Thiago,Forward,24,2001-06-26,Brentford
+Brazil,Rayan,Forward,19,2006-08-03,Bournemouth
+Haiti,Johny Placide,Goalkeeper,38,1988-01-29,Bastia
+Haiti,Carlens Arcus,Defender,29,1996-06-28,Angers
+Haiti,Keeto Thermoncy,Defender,20,2006-03-29,Young Boys
+Haiti,Ricardo Adé,Defender,36,1990-05-21,LDU Quito
+Haiti,Hannes Delcroix,Defender,27,1999-02-28,Lugano
+Haiti,Carl Sainté,Midfielder,23,2002-08-09,El Paso Locomotive FC
+Haiti,Derrick Etienne Jr.,Forward,29,1996-11-25,Toronto FC
+Haiti,Martin Expérience,Defender,27,1999-03-09,Nancy
+Haiti,Duckens Nazon,Forward,32,1994-04-07,Esteghlal
+Haiti,Jean-Ricner Bellegarde,Midfielder,27,1998-06-27,Wolverhampton Wanderers
+Haiti,Louicius Deedson,Forward,25,2001-02-11,FC Dallas
+Haiti,Alexandre Pierre,Goalkeeper,25,2001-02-25,Sochaux
+Haiti,Duke Lacroix,Defender,32,1993-10-14,Colorado Springs Switchbacks FC
+Haiti,Garven Metusala,Defender,26,1999-12-31,Colorado Springs Switchbacks FC
+Haiti,Ruben Providence,Forward,24,2001-07-07,Almere City
+Haiti,Lenny Joseph,Forward,25,2000-10-12,Ferencváros
+Haiti,Danley Jean Jacques,Midfielder,26,2000-05-20,
+Haiti,Wilson Isidor,Forward,25,2000-08-27,Sunderland
+Haiti,Yassin Fortuné,Forward,27,1999-01-30,Vizela
+Haiti,Frantzdy Pierrot,Forward,31,1995-03-29,Çaykur Rizespor
+Haiti,Josué Casimir,Forward,24,2001-09-24,Auxerre
+Haiti,Jean-Kévin Duverne,Defender,28,1997-07-12,Gent
+Haiti,Josué Duverger,Goalkeeper,26,2000-04-27,Cosmos Koblenz
+Haiti,Wilguens Paugain,Defender,24,2001-08-24,Zulte Waregem
+Haiti,Dominique Simon,Midfielder,25,2000-07-29,Tatran Prešov
+Haiti,Woodensky Pierre,Midfielder,21,2004-12-30,Violette
+Morocco,Yassine Bounou,Goalkeeper,35,1991-04-05,Al-Hilal
+Morocco,Achraf Hakimi,Defender,27,1998-11-04,Paris Saint-Germain
+Morocco,Noussair Mazraoui,Defender,28,1997-11-14,Manchester United
+Morocco,Sofyan Amrabat,Midfielder,29,1996-08-21,Real Betis
+Morocco,Marwane Saâdane,Defender,34,1992-01-17,Al-Fateh
+Morocco,Ayyoub Bouaddi,Midfielder,18,2007-10-02,Lille
+Morocco,Chemsdine Talbi,Midfielder,21,2005-05-09,Sunderland
+Morocco,Azzedine Ounahi,Midfielder,26,2000-04-19,Girona
+Morocco,Soufiane Rahimi,Forward,30,1996-06-02,Al Ain
+Morocco,Brahim Díaz,Forward,26,1999-08-03,Real Madrid
+Morocco,Ismael Saibari,Midfielder,25,2001-01-28,PSV Eindhoven
+Morocco,Munir Mohamedi,Goalkeeper,37,1989-05-10,RS Berkane
+Morocco,Zakaria El Ouahdi,Defender,24,2001-12-31,Genk
+Morocco,Issa Diop,Defender,29,1997-01-09,Fulham
+Morocco,Samir El Mourabet,Midfielder,20,2005-10-06,Strasbourg
+Morocco,Gessime Yassine,Midfielder,20,2005-11-22,Strasbourg
+Morocco,Amine Sbaï,Forward,25,2000-11-05,Angers
+Morocco,Chadi Riad,Defender,22,2003-06-17,Crystal Palace
+Morocco,Youssef Belammari,Defender,27,1998-09-20,Al Ahly
+Morocco,Ayoub El Kaabi,Forward,32,1993-06-25,Olympiacos
+Morocco,Ayoube Amaimouni,Forward,21,2004-11-30,Eintracht Frankfurt
+Morocco,Ahmed Reda Tagnaouti,Goalkeeper,30,1996-04-05,AS FAR
+Morocco,Bilal El Khannouss,Midfielder,22,2004-05-10,VfB Stuttgart
+Morocco,Neil El Aynaoui,Midfielder,24,2001-07-02,Roma
+Morocco,Redouane Halhal,Defender,23,2003-03-05,Mechelen
+Morocco,Anass Salah-Eddine,Defender,24,2002-01-18,PSV Eindhoven
+Scotland,Angus Gunn,Goalkeeper,30,1996-01-22,Nottingham Forest
+Scotland,Aaron Hickey,Defender,24,2002-06-10,Brentford
+Scotland,Andy Robertson,Defender,32,1994-03-11,Liverpool
+Scotland,Scott McTominay,Midfielder,29,1996-12-08,Napoli
+Scotland,Grant Hanley,Defender,34,1991-11-20,Hibernian
+Scotland,Kieran Tierney,Defender,29,1997-06-05,Celtic
+Scotland,John McGinn,Midfielder,31,1994-10-18,Aston Villa
+Scotland,Tyler Fletcher,Midfielder,19,2007-03-19,Manchester United
+Scotland,Lyndon Dykes,Forward,30,1995-10-07,Charlton Athletic
+Scotland,Ché Adams,Forward,29,1996-07-13,Torino
+Scotland,Ryan Christie,Midfielder,31,1995-02-22,Bournemouth
+Scotland,Liam Kelly,Goalkeeper,30,1996-01-23,Rangers
+Scotland,Jack Hendry,Defender,31,1995-05-07,Al-Ettifaq
+Scotland,Ross Stewart,Forward,29,1996-07-11,Southampton
+Scotland,John Souttar,Defender,29,1996-09-25,Rangers
+Scotland,Dominic Hyam,Defender,30,1995-12-20,Wrexham
+Scotland,Ben Gannon-Doak,Forward,20,2005-11-11,Bournemouth
+Scotland,George Hirst,Forward,27,1999-02-15,Ipswich Town
+Scotland,Lewis Ferguson,Midfielder,26,1999-08-24,Bologna
+Scotland,Lawrence Shankland,Forward,30,1995-08-10,Heart of Midlothian
+Scotland,Craig Gordon,Goalkeeper,43,1982-12-31,Heart of Midlothian
+Scotland,Nathan Patterson,Defender,24,2001-10-16,Everton
+Scotland,Kenny McLean,Midfielder,34,1992-01-08,Norwich City
+Scotland,Anthony Ralston,Defender,27,1998-11-16,Celtic
+Scotland,Findlay Curtis,Forward,20,2006-06-09,Kilmarnock
+Scotland,Scott McKenna,Defender,29,1996-11-12,Dinamo Zagreb
+Australia,Mathew Ryan,Goalkeeper,34,1992-04-08,Levante
+Australia,Miloš Degenek,Defender,32,1994-04-28,APOEL
+Australia,Alessandro Circati,Defender,22,2003-10-10,Parma
+Australia,Jacob Italiano,Defender,24,2001-07-30,Grazer AK
+Australia,Jordan Bos,Defender,23,2002-10-29,Feyenoord
+Australia,Jason Geria,Defender,33,1993-05-10,Albirex Niigata
+Australia,Mathew Leckie,Forward,35,1991-02-04,Melbourne City
+Australia,Connor Metcalfe,Midfielder,26,1999-11-05,FC St. Pauli
+Australia,Mohamed Touré,Forward,22,2004-03-26,Norwich City
+Australia,Ajdin Hrustic,Forward,29,1996-07-05,Heracles Almelo
+Australia,Awer Mabil,Forward,30,1995-09-15,Castellón
+Australia,Paul Izzo,Goalkeeper,31,1995-01-06,Randers
+Australia,Aiden O'Neill,Midfielder,27,1998-07-04,New York City FC
+Australia,Cammy Devlin,Midfielder,28,1998-06-07,Heart of Midlothian
+Australia,Kai Trewin,Defender,25,2001-05-18,New York City FC
+Australia,Aziz Behich,Defender,35,1990-12-16,Melbourne City
+Australia,Nestory Irankunda,Forward,20,2006-02-09,Watford
+Australia,Patrick Beach,Goalkeeper,22,2003-08-06,Melbourne City
+Australia,Harry Souttar,Defender,27,1998-10-22,Leicester City
+Australia,Cristian Volpato,Forward,22,2003-11-15,Sassuolo
+Australia,Cameron Burgess,Defender,30,1995-10-21,Swansea City
+Australia,Jackson Irvine,Midfielder,33,1993-03-07,FC St. Pauli
+Australia,Nishan Velupillay,Forward,25,2001-05-07,Melbourne Victory
+Australia,Paul Okon-Engstler,Midfielder,21,2005-01-24,Sydney FC
+Australia,Lucas Herrington,Defender,18,2007-09-05,Colorado Rapids
+Australia,Tete Yengi,Forward,25,2000-11-28,Machida Zelvia
+Paraguay,Gatito Fernández,Goalkeeper,38,1988-03-29,Cerro Porteño
+Paraguay,Gustavo Velázquez,Defender,35,1991-04-17,Cerro Porteño
+Paraguay,Omar Alderete,Defender,29,1996-12-26,Sunderland
+Paraguay,Juan José Cáceres,Defender,26,2000-06-01,Dynamo Moscow
+Paraguay,Fabián Balbuena,Defender,34,1991-08-23,Grêmio
+Paraguay,Júnior Alonso,Defender,33,1993-02-09,Atlético Mineiro
+Paraguay,Ramón Sosa,Midfielder,26,1999-08-31,Palmeiras
+Paraguay,Diego Gómez,Midfielder,23,2003-03-27,Brighton & Hove Albion
+Paraguay,Antonio Sanabria,Forward,30,1996-03-04,Cremonese
+Paraguay,Miguel Almirón,Midfielder,32,1994-02-10,Atlanta United FC
+Paraguay,Maurício,Midfielder,24,2001-06-22,Palmeiras
+Paraguay,Orlando Gill,Goalkeeper,26,2000-06-11,San Lorenzo
+Paraguay,José Canale,Defender,29,1996-07-20,Lanús
+Paraguay,Andrés Cubas,Midfielder,30,1996-05-11,Vancouver Whitecaps FC
+Paraguay,Gustavo Gómez,Defender,33,1993-05-06,Palmeiras
+Paraguay,Damián Bobadilla,Midfielder,24,2001-07-11,São Paulo
+Paraguay,Kaku,Forward,31,1995-01-11,Al Ain
+Paraguay,Álex Arce,Forward,30,1995-06-16,Independiente Rivadavia
+Paraguay,Julio Enciso,Forward,22,2004-01-23,Strasbourg
+Paraguay,Braian Ojeda,Midfielder,25,2000-06-27,Orlando City SC
+Paraguay,Gabriel Ávalos,Forward,34,1991-07-09,Independiente
+Paraguay,Gastón Olveira,Goalkeeper,33,1993-04-21,Olimpia
+Paraguay,Matías Galarza,Midfielder,24,2002-02-11,Atlanta United FC
+Paraguay,Gustavo Caballero,Midfielder,24,2001-09-21,Portsmouth
+Paraguay,Isidro Pitta,Forward,26,1999-08-14,Red Bull Bragantino
+Paraguay,Alexandro Maidana,Defender,20,2005-07-26,Talleres
+Turkey,Mert Günok,Goalkeeper,37,1989-03-01,Fenerbahçe
+Turkey,Zeki Çelik,Defender,29,1997-02-17,Roma
+Turkey,Merih Demiral,Defender,28,1998-03-05,Al-Ahli
+Turkey,Çağlar Söyüncü,Defender,30,1996-05-23,Fenerbahçe
+Turkey,Salih Özcan,Midfielder,28,1998-01-11,Borussia Dortmund
+Turkey,Orkun Kökçü,Midfielder,25,2000-12-29,Beşiktaş
+Turkey,Kerem Aktürkoğlu,Forward,27,1998-10-21,Fenerbahçe
+Turkey,Arda Güler,Forward,21,2005-02-25,Real Madrid
+Turkey,Deniz Gül,Forward,21,2004-07-02,Porto
+Turkey,Hakan Çalhanoğlu,Midfielder,32,1994-02-08,Inter Milan
+Turkey,Kenan Yıldız,Forward,21,2005-05-04,Juventus
+Turkey,Altay Bayındır,Goalkeeper,28,1998-04-14,Manchester United
+Turkey,Eren Elmalı,Defender,25,2000-07-07,Galatasaray
+Turkey,Abdülkerim Bardakcı,Defender,31,1994-09-07,Galatasaray
+Turkey,Ozan Kabak,Defender,26,2000-03-25,TSG Hoffenheim
+Turkey,İsmail Yüksek,Midfielder,27,1999-01-26,Fenerbahçe
+Turkey,İrfan Can Kahveci,Forward,30,1995-07-15,Kasımpaşa
+Turkey,Mert Müldür,Defender,27,1999-04-03,Fenerbahçe
+Turkey,Yunus Akgün,Forward,25,2000-07-07,Galatasaray
+Turkey,Ferdi Kadıoğlu,Defender,26,1999-10-07,Brighton & Hove Albion
+Turkey,Barış Alper Yılmaz,Forward,26,2000-05-23,Galatasaray
+Turkey,Kaan Ayhan,Midfielder,31,1994-11-10,Galatasaray
+Turkey,Uğurcan Çakır,Goalkeeper,30,1996-04-05,Galatasaray
+Turkey,Oğuz Aydın,Forward,25,2000-10-27,Fenerbahçe
+Turkey,Samet Akaydin,Defender,32,1994-03-13,Çaykur Rizespor
+Turkey,Can Uzun,Forward,20,2005-11-11,Eintracht Frankfurt
+United States,Matt Turner,Goalkeeper,31,1994-06-24,New England Revolution
+United States,Sergiño Dest,Defender,25,2000-11-03,PSV Eindhoven
+United States,Chris Richards,Defender,26,2000-03-28,Crystal Palace
+United States,Tyler Adams,Midfielder,27,1999-02-14,Bournemouth
+United States,Antonee Robinson,Defender,28,1997-08-08,Fulham
+United States,Auston Trusty,Defender,27,1998-08-12,Celtic
+United States,Giovanni Reyna,Midfielder,23,2002-11-13,Borussia Mönchengladbach
+United States,Weston McKennie,Midfielder,27,1998-08-28,Juventus
+United States,Ricardo Pepi,Forward,23,2003-01-09,PSV Eindhoven
+United States,Christian Pulisic,Forward,27,1998-09-18,Milan
+United States,Brenden Aaronson,Forward,25,2000-10-22,Leeds United
+United States,Miles Robinson,Defender,29,1997-03-14,FC Cincinnati
+United States,Tim Ream,Defender,38,1987-10-05,Charlotte FC
+United States,Sebastian Berhalter,Midfielder,25,2001-05-10,Vancouver Whitecaps FC
+United States,Cristian Roldan,Midfielder,31,1995-06-03,Seattle Sounders FC
+United States,Alex Freeman,Defender,21,2004-08-09,Villarreal
+United States,Malik Tillman,Midfielder,24,2002-05-28,Bayer Leverkusen
+United States,Max Arfsten,Defender,25,2001-04-19,Columbus Crew
+United States,Haji Wright,Forward,28,1998-03-27,Coventry City
+United States,Folarin Balogun,Forward,24,2001-07-03,Monaco
+United States,Timothy Weah,Forward,26,2000-02-22,Marseille
+United States,Mark McKenzie,Defender,27,1999-02-25,Toulouse
+United States,Joe Scally,Defender,23,2002-12-31,Borussia Mönchengladbach
+United States,Matt Freese,Goalkeeper,27,1998-09-02,New York City FC
+United States,Chris Brady,Goalkeeper,22,2004-03-03,Chicago Fire FC
+United States,Alejandro Zendejas,Forward,28,1998-02-07,América
+Curaçao,Eloy Room,Goalkeeper,37,1989-02-06,Miami FC
+Curaçao,Shurandy Sambo,Defender,24,2001-08-19,Sparta Rotterdam
+Curaçao,Juriën Gaari,Defender,32,1993-12-23,Abha
+Curaçao,Roshon van Eijma,Defender,28,1998-06-09,RKC Waalwijk
+Curaçao,Sherel Floranus,Defender,27,1998-08-23,PEC Zwolle
+Curaçao,Godfried Roemeratoe,Midfielder,26,1999-08-19,RKC Waalwijk
+Curaçao,Juninho Bacuna,Midfielder,28,1997-08-07,Volendam
+Curaçao,Livano Comenencia,Midfielder,22,2004-02-03,Zürich
+Curaçao,Jürgen Locadia,Forward,32,1993-11-07,Miami FC
+Curaçao,Leandro Bacuna,Midfielder,34,1991-08-21,Iğdır
+Curaçao,Jeremy Antonisse,Forward,24,2002-03-29,Kifisia
+Curaçao,Sontje Hansen,Forward,24,2002-05-18,Middlesbrough
+Curaçao,Tyrese Noslin,Forward,23,2002-09-11,Telstar
+Curaçao,Kenji Gorré,Forward,31,1994-09-29,Maccabi Haifa
+Curaçao,Ar'jany Martha,Midfielder,22,2003-09-04,Rotherham United
+Curaçao,Jearl Margaritha,Forward,26,2000-04-10,Beveren
+Curaçao,Brandley Kuwas,Forward,33,1992-09-19,Volendam
+Curaçao,Armando Obispo,Defender,27,1999-03-05,PSV Eindhoven
+Curaçao,Gervane Kastaneer,Forward,30,1996-06-09,Terengganu
+Curaçao,Joshua Brenet,Defender,32,1994-03-20,Kayserispor
+Curaçao,Tahith Chong,Midfielder,26,1999-12-04,Sheffield United
+Curaçao,Kevin Felida,Midfielder,26,1999-11-11,Den Bosch
+Curaçao,Riechedly Bazoer,Defender,29,1996-10-12,Konyaspor
+Curaçao,Deveron Fonville,Defender,23,2003-05-16,NEC
+Curaçao,Tyrick Bodak,Goalkeeper,24,2002-05-15,Telstar
+Curaçao,Trevor Doornbusch,Goalkeeper,26,1999-07-06,VVV-Venlo
+Ecuador,Hernán Galíndez,Goalkeeper,39,1987-03-30,Huracán
+Ecuador,Félix Torres,Defender,29,1997-01-11,Internacional
+Ecuador,Piero Hincapié,Defender,24,2002-01-09,Arsenal
+Ecuador,Joel Ordóñez,Defender,22,2004-04-21,Club Brugge
+Ecuador,Jordy Alcívar,Midfielder,26,1999-08-05,Independiente del Valle
+Ecuador,Willian Pacho,Defender,24,2001-10-16,Paris Saint-Germain
+Ecuador,Pervis Estupiñán,Defender,28,1998-01-21,Milan
+Ecuador,Anthony Valencia,Midfielder,22,2003-07-21,Antwerp
+Ecuador,John Yeboah,Forward,25,2000-06-23,Venezia
+Ecuador,Kendry Páez,Midfielder,19,2007-05-04,River Plate
+Ecuador,Kevin Rodríguez,Forward,26,2000-03-04,Saint-Gilloise
+Ecuador,Moisés Ramírez,Goalkeeper,25,2000-09-09,Kifisia
+Ecuador,Enner Valencia,Forward,36,1989-11-04,Pachuca
+Ecuador,Alan Minda,Midfielder,23,2003-05-14,Atlético Mineiro
+Ecuador,Pedro Vite,Midfielder,24,2002-03-09,Pumas UNAM
+Ecuador,Jordy Caicedo,Forward,28,1997-11-18,Huracán
+Ecuador,Ángelo Preciado,Defender,28,1998-02-18,Atlético Mineiro
+Ecuador,Denil Castillo,Midfielder,22,2004-03-24,Midtjylland
+Ecuador,Gonzalo Plata,Forward,25,2000-11-01,Flamengo
+Ecuador,Nilson Angulo,Forward,22,2003-06-19,Sunderland
+Ecuador,Alan Franco,Midfielder,27,1998-08-21,Atlético Mineiro
+Ecuador,Gonzalo Valle,Goalkeeper,30,1996-02-28,LDU Quito
+Ecuador,Moisés Caicedo,Midfielder,24,2001-11-02,Chelsea
+Ecuador,Jeremy Arévalo,Forward,21,2005-03-19,VfB Stuttgart
+Ecuador,Jackson Porozo,Defender,25,2000-08-04,Tijuana
+Ecuador,Yaimar Medina,Defender,21,2004-11-05,Genk
+Germany,Manuel Neuer,Goalkeeper,40,1986-03-27,Bayern Munich
+Germany,Antonio Rüdiger,Defender,33,1993-03-03,Real Madrid
+Germany,Waldemar Anton,Defender,29,1996-07-20,Borussia Dortmund
+Germany,Jonathan Tah,Defender,30,1996-02-11,Bayern Munich
+Germany,Aleksandar Pavlović,Midfielder,22,2004-05-03,Bayern Munich
+Germany,Joshua Kimmich,Defender,31,1995-02-08,Bayern Munich
+Germany,Kai Havertz,Forward,27,1999-06-11,Arsenal
+Germany,Leon Goretzka,Midfielder,31,1995-02-06,Bayern Munich
+Germany,Jamie Leweling,Midfielder,25,2001-02-26,VfB Stuttgart
+Germany,Jamal Musiala,Midfielder,23,2003-02-26,Bayern Munich
+Germany,Nick Woltemade,Forward,24,2002-02-14,Newcastle United
+Germany,Oliver Baumann,Goalkeeper,36,1990-06-02,TSG Hoffenheim
+Germany,Pascal Groß,Midfielder,34,1991-06-15,Brighton & Hove Albion
+Germany,Maximilian Beier,Forward,23,2002-10-17,Borussia Dortmund
+Germany,Nico Schlotterbeck,Defender,26,1999-12-01,Borussia Dortmund
+Germany,Angelo Stiller,Midfielder,25,2001-04-04,VfB Stuttgart
+Germany,Florian Wirtz,Midfielder,23,2003-05-03,Liverpool
+Germany,Nathaniel Brown,Defender,22,2003-06-16,Eintracht Frankfurt
+Germany,Leroy Sané,Midfielder,30,1996-01-11,Galatasaray
+Germany,Nadiem Amiri,Midfielder,29,1996-10-27,Mainz 05
+Germany,Alexander Nübel,Goalkeeper,29,1996-09-30,VfB Stuttgart
+Germany,David Raum,Defender,28,1998-04-22,RB Leipzig
+Germany,Felix Nmecha,Midfielder,25,2000-10-10,Borussia Dortmund
+Germany,Malick Thiaw,Defender,24,2001-08-08,Newcastle United
+Germany,Assan Ouédraogo,Midfielder,20,2006-05-09,RB Leipzig
+Germany,Deniz Undav,Forward,29,1996-07-19,VfB Stuttgart
+Ivory Coast,Yahia Fofana,Goalkeeper,25,2000-08-21,Çaykur Rizespor
+Ivory Coast,Ousmane Diomande,Defender,22,2003-12-04,Sporting CP
+Ivory Coast,Ghislain Konan,Defender,30,1995-12-27,Gil Vicente
+Ivory Coast,Jean Michaël Seri,Midfielder,34,1991-07-19,Maribor
+Ivory Coast,Wilfried Singo,Defender,25,2000-12-25,Galatasaray
+Ivory Coast,Seko Fofana,Midfielder,31,1995-05-07,Porto
+Ivory Coast,Odilon Kossounou,Defender,25,2001-01-04,Atalanta
+Ivory Coast,Franck Kessié,Midfielder,29,1996-12-19,Al-Ahli
+Ivory Coast,Ange-Yoan Bonny,Forward,22,2003-10-25,Inter Milan
+Ivory Coast,Simon Adingra,Forward,24,2002-01-01,Monaco
+Ivory Coast,Yan Diomande,Forward,19,2006-11-14,RB Leipzig
+Ivory Coast,Elye Wahi,Forward,23,2003-01-02,Nice
+Ivory Coast,Christopher Opéri,Defender,29,1997-04-29,İstanbul Başakşehir
+Ivory Coast,Oumar Diakité,Forward,22,2003-12-20,Cercle Brugge
+Ivory Coast,Amad Diallo,Forward,23,2002-07-11,Manchester United
+Ivory Coast,Mohamed Koné,Goalkeeper,24,2002-03-07,Charleroi
+Ivory Coast,Guéla Doué,Defender,23,2002-10-17,Strasbourg
+Ivory Coast,Ibrahim Sangaré,Midfielder,28,1997-12-02,Nottingham Forest
+Ivory Coast,Nicolas Pépé,Forward,31,1995-05-29,Villarreal
+Ivory Coast,Emmanuel Agbadou,Defender,28,1997-06-17,Beşiktaş
+Ivory Coast,Evan Ndicka,Defender,26,1999-08-20,Roma
+Ivory Coast,Evann Guessand,Forward,24,2001-07-01,Crystal Palace
+Ivory Coast,Alban Lafont,Goalkeeper,27,1999-01-23,Panathinaikos
+Ivory Coast,Bazoumana Touré,Forward,20,2006-03-02,TSG Hoffenheim
+Ivory Coast,Parfait Guiagon,Midfielder,25,2001-02-22,Charleroi
+Ivory Coast,Christ Inao Oulaï,Midfielder,20,2006-04-06,Trabzonspor
+Japan,Zion Suzuki,Goalkeeper,23,2002-08-21,Parma
+Japan,Yukinari Sugawara,Defender,25,2000-06-28,Werder Bremen
+Japan,Shōgo Taniguchi,Defender,34,1991-07-15,Sint-Truiden
+Japan,Kō Itakura,Defender,29,1997-01-27,Ajax
+Japan,Yūto Nagatomo,Defender,39,1986-09-12,FC Tokyo
+Japan,Shūto Machino,Forward,26,1999-09-30,Borussia Mönchengladbach
+Japan,Ao Tanaka,Midfielder,27,1998-09-10,Leeds United
+Japan,Takefusa Kubo,Midfielder,25,2001-06-04,Real Sociedad
+Japan,Keisuke Gotō,Forward,21,2005-06-03,Sint-Truiden
+Japan,Ritsu Dōan,Midfielder,27,1998-06-16,Eintracht Frankfurt
+Japan,Daizen Maeda,Midfielder,28,1997-10-20,Celtic
+Japan,Keisuke Ōsako,Goalkeeper,26,1999-07-28,Sanfrecce Hiroshima
+Japan,Keito Nakamura,Midfielder,25,2000-07-28,Reims
+Japan,Junya Itō,Midfielder,33,1993-03-09,Genk
+Japan,Daichi Kamada,Midfielder,29,1996-08-05,Crystal Palace
+Japan,Tsuyoshi Watanabe,Defender,29,1997-02-05,Feyenoord
+Japan,Yuito Suzuki,Midfielder,24,2001-10-25,SC Freiburg
+Japan,Ayase Ueda,Forward,27,1998-08-28,Feyenoord
+Japan,Kōki Ogawa,Forward,28,1997-08-08,NEC
+Japan,Ayumu Seko,Defender,26,2000-06-07,Le Havre
+Japan,Hiroki Itō,Defender,27,1999-05-12,Bayern Munich
+Japan,Takehiro Tomiyasu,Defender,27,1998-11-05,Ajax
+Japan,Tomoki Hayakawa,Goalkeeper,27,1999-03-03,Kashima Antlers
+Japan,Kaishū Sano,Midfielder,25,2000-12-30,Mainz 05
+Japan,Junnosuke Suzuki,Defender,22,2003-07-12,Copenhagen
+Japan,Kento Shiogai,Forward,21,2005-03-26,VfL Wolfsburg
+Netherlands,Bart Verbruggen,Goalkeeper,23,2002-08-18,Brighton & Hove Albion
+Netherlands,Lutsharel Geertruida,Defender,25,2000-07-18,Sunderland
+Netherlands,Marten de Roon,Midfielder,35,1991-03-29,Atalanta
+Netherlands,Virgil van Dijk,Defender,34,1991-07-08,Liverpool
+Netherlands,Nathan Aké,Defender,31,1995-02-18,Manchester City
+Netherlands,Jan Paul van Hecke,Defender,26,2000-06-08,Brighton & Hove Albion
+Netherlands,Justin Kluivert,Midfielder,27,1999-05-05,Bournemouth
+Netherlands,Ryan Gravenberch,Midfielder,24,2002-05-16,Liverpool
+Netherlands,Wout Weghorst,Forward,33,1992-08-07,Ajax
+Netherlands,Memphis Depay,Forward,32,1994-02-13,Corinthians
+Netherlands,Cody Gakpo,Forward,27,1999-05-07,Liverpool
+Netherlands,Mats Wieffer,Defender,26,1999-11-16,Brighton & Hove Albion
+Netherlands,Robin Roefs,Goalkeeper,23,2003-01-17,Sunderland
+Netherlands,Tijjani Reijnders,Midfielder,27,1998-07-29,Manchester City
+Netherlands,Micky van de Ven,Defender,25,2001-04-19,Tottenham Hotspur
+Netherlands,Guus Til,Midfielder,28,1997-12-22,PSV Eindhoven
+Netherlands,Noa Lang,Forward,26,1999-06-17,Galatasaray
+Netherlands,Donyell Malen,Forward,27,1999-01-19,Roma
+Netherlands,Brian Brobbey,Forward,24,2002-02-01,Sunderland
+Netherlands,Teun Koopmeiners,Midfielder,28,1998-02-28,Juventus
+Netherlands,Frenkie de Jong,Midfielder,29,1997-05-12,Barcelona
+Netherlands,Denzel Dumfries,Defender,30,1996-04-18,Inter Milan
+Netherlands,Mark Flekken,Goalkeeper,32,1993-06-13,Bayer Leverkusen
+Netherlands,Crysencio Summerville,Forward,24,2001-10-30,West Ham United
+Netherlands,Jorrel Hato,Defender,20,2006-03-07,Chelsea
+Netherlands,Quinten Timber,Midfielder,24,2001-06-17,Marseille
+Sweden,Jacob Widell Zetterström,Goalkeeper,27,1998-07-11,Derby County
+Sweden,Gustaf Lagerbielke,Defender,26,2000-04-10,Braga
+Sweden,Victor Lindelöf,Defender,31,1994-07-17,Aston Villa
+Sweden,Isak Hien,Defender,27,1999-01-13,Atalanta
+Sweden,Gabriel Gudmundsson,Defender,27,1999-04-29,Leeds United
+Sweden,Herman Johansson,Defender,28,1997-10-16,FC Dallas
+Sweden,Lucas Bergvall,Midfielder,20,2006-02-02,Tottenham Hotspur
+Sweden,Daniel Svensson,Defender,24,2002-02-12,Borussia Dortmund
+Sweden,Alexander Isak,Forward,26,1999-09-21,Liverpool
+Sweden,Benjamin Nygren,Midfielder,24,2001-07-08,Celtic
+Sweden,Anthony Elanga,Forward,24,2002-04-27,Newcastle United
+Sweden,Viktor Johansson,Goalkeeper,27,1998-09-14,Stoke City
+Sweden,Ken Sema,Midfielder,32,1993-09-30,Pafos
+Sweden,Hjalmar Ekdal,Defender,27,1998-10-21,Burnley
+Sweden,Carl Starfelt,Defender,31,1995-06-01,Celta Vigo
+Sweden,Jesper Karlström,Midfielder,30,1995-06-21,Udinese
+Sweden,Viktor Gyökeres,Forward,28,1998-06-04,Arsenal
+Sweden,Yasin Ayari,Midfielder,22,2003-10-06,Brighton & Hove Albion
+Sweden,Mattias Svanberg,Midfielder,27,1999-01-05,VfL Wolfsburg
+Sweden,Eric Smith,Defender,29,1997-01-08,FC St. Pauli
+Sweden,Alexander Bernhardsson,Defender,27,1998-09-08,Holstein Kiel
+Sweden,Besfort Zeneli,Midfielder,23,2002-11-21,Saint-Gilloise
+Sweden,Kristoffer Nordfeldt,Goalkeeper,36,1989-06-23,AIK
+Sweden,Elliot Stroud,Defender,23,2002-06-22,Mjällby AIF
+Sweden,Gustaf Nilsson,Forward,29,1997-05-23,Club Brugge
+Sweden,Taha Ali,Forward,27,1998-07-01,Malmö FF
+Tunisia,Mouhib Chamakh,Goalkeeper,24,2001-08-25,Club Africain
+Tunisia,Ali Abdi,Defender,32,1993-12-20,Nice
+Tunisia,Montassar Talbi,Defender,28,1998-05-26,Lorient
+Tunisia,Omar Rekik,Defender,24,2001-12-20,Maribor
+Tunisia,Adem Arous,Defender,21,2004-07-17,Kasımpaşa
+Tunisia,Dylan Bronn,Defender,30,1995-06-19,Servette
+Tunisia,Elias Achouri,Forward,27,1999-02-10,Copenhagen
+Tunisia,Elias Saad,Forward,26,1999-12-27,Hannover 96
+Tunisia,Hazem Mastouri,Forward,28,1997-06-18,Dynamo Makhachkala
+Tunisia,Hannibal Mejbri,Midfielder,23,2003-01-21,Burnley
+Tunisia,Ismaël Gharbi,Midfielder,22,2004-04-10,FC Augsburg
+Tunisia,Mortadha Ben Ouanes,Defender,31,1994-07-02,Kasımpaşa
+Tunisia,Rani Khedira,Midfielder,32,1994-01-27,Berlin
+Tunisia,Khalil Ayari,Midfielder,21,2005-02-02,Paris Saint-Germain
+Tunisia,Hadj Mahmoud,Midfielder,26,2000-04-24,Lugano
+Tunisia,Aymen Dahmen,Goalkeeper,29,1997-01-28,CS Sfaxien
+Tunisia,Ellyes Skhiri,Midfielder,31,1995-05-10,Eintracht Frankfurt
+Tunisia,Rayan Elloumi,Forward,18,2007-09-17,Vancouver Whitecaps FC
+Tunisia,Firas Chaouat,Forward,30,1996-05-08,Club Africain
+Tunisia,Yan Valery,Defender,27,1999-02-22,Young Boys
+Tunisia,Mohamed Amine Ben Hamida,Defender,30,1995-12-15,Espérance de Tunis
+Tunisia,Sabri Ben Hessen,Goalkeeper,29,1996-06-13,Étoile du Sahel
+Tunisia,Moutaz Neffati,Defender,21,2004-09-04,IFK Norrköping
+Tunisia,Raed Chikhaoui,Defender,22,2004-06-09,US Monastir
+Tunisia,Anis Ben Slimane,Midfielder,25,2001-03-16,Norwich City
+Tunisia,Sebastian Tounekti,Midfielder,23,2002-07-13,Celtic
+Belgium,Thibaut Courtois,Goalkeeper,34,1992-05-11,Real Madrid
+Belgium,Zeno Debast,Defender,22,2003-10-24,Sporting CP
+Belgium,Arthur Theate,Defender,26,2000-05-25,Eintracht Frankfurt
+Belgium,Brandon Mechele,Defender,33,1993-01-28,Club Brugge
+Belgium,Maxim De Cuyper,Defender,25,2000-12-22,Brighton & Hove Albion
+Belgium,Axel Witsel,Midfielder,37,1989-01-12,Girona
+Belgium,Kevin De Bruyne,Midfielder,34,1991-06-28,Napoli
+Belgium,Youri Tielemans,Midfielder,29,1997-05-07,Aston Villa
+Belgium,Romelu Lukaku,Forward,33,1993-05-13,Napoli
+Belgium,Leandro Trossard,Forward,31,1994-12-04,Arsenal
+Belgium,Jérémy Doku,Forward,24,2002-05-27,Manchester City
+Belgium,Senne Lammens,Goalkeeper,23,2002-07-07,Manchester United
+Belgium,Mike Penders,Goalkeeper,20,2005-07-31,Strasbourg
+Belgium,Dodi Lukébakio,Forward,28,1997-09-24,Benfica
+Belgium,Thomas Meunier,Defender,34,1991-09-12,Lille
+Belgium,Koni De Winter,Defender,23,2002-06-12,Milan
+Belgium,Charles De Ketelaere,Forward,25,2001-03-10,Atalanta
+Belgium,Joaquin Seys,Defender,21,2005-03-28,Club Brugge
+Belgium,Diego Moreira,Midfielder,21,2004-08-06,Strasbourg
+Belgium,Hans Vanaken,Midfielder,33,1992-08-24,Club Brugge
+Belgium,Timothy Castagne,Defender,30,1995-12-05,Fulham
+Belgium,Alexis Saelemaekers,Midfielder,26,1999-06-27,Milan
+Belgium,Nicolas Raskin,Midfielder,25,2001-02-23,Rangers
+Belgium,Amadou Onana,Midfielder,24,2001-08-16,Aston Villa
+Belgium,Nathan Ngoy,Defender,23,2003-06-10,Lille
+Belgium,Matias Fernandez-Pardo,Forward,21,2005-02-03,Lille
+Egypt,Mohamed El Shenawy,Goalkeeper,37,1988-12-18,Al Ahly
+Egypt,Yasser Ibrahim,Defender,33,1993-02-10,Al Ahly
+Egypt,Mohamed Hany,Defender,30,1996-02-02,Al Ahly
+Egypt,Hossam Abdelmaguid,Defender,25,2001-04-30,Zamalek
+Egypt,Ramy Rabia,Defender,33,1993-05-20,Al Ain
+Egypt,Mohamed Abdelmonem,Defender,27,1999-02-01,Nice
+Egypt,Trézéguet,Forward,31,1994-10-01,Al Ahly
+Egypt,Emam Ashour,Midfielder,28,1998-02-20,Al Ahly
+Egypt,Hamza Abdelkarim,Forward,18,2008-01-01,Barcelona B
+Egypt,Mohamed Salah,Forward,33,1992-06-15,Liverpool
+Egypt,Mostafa Ziko,Midfielder,29,1997-04-27,Pyramids
+Egypt,Haissem Hassan,Forward,24,2002-02-08,Oviedo
+Egypt,Ahmed Fatouh,Defender,28,1998-03-22,Zamalek
+Egypt,Hamdy Fathy,Midfielder,31,1994-09-29,Al-Wakrah
+Egypt,Karim Hafez,Defender,30,1996-03-12,Pyramids
+Egypt,El Mahdy Soliman,Goalkeeper,39,1987-06-08,Zamalek
+Egypt,Mohanad Lasheen,Midfielder,30,1996-05-29,Pyramids
+Egypt,Nabil Emad,Midfielder,30,1996-04-06,Al-Najma
+Egypt,Marwan Attia,Midfielder,27,1998-08-01,Al Ahly
+Egypt,Ibrahim Adel,Forward,25,2001-04-23,Nordsjælland
+Egypt,Mahmoud Saber,Midfielder,24,2001-07-30,ZED
+Egypt,Omar Marmoush,Forward,27,1999-02-07,Manchester City
+Egypt,Mostafa Shobeir,Goalkeeper,26,2000-05-15,Al Ahly
+Egypt,Tarek Alaa,Defender,24,2002-01-05,ZED
+Egypt,Zizo,Forward,30,1996-01-10,Al Ahly
+Egypt,Mohamed Alaa,Goalkeeper,27,1999-01-01,El Gouna
+Iran,Alireza Beiranvand,Goalkeeper,33,1992-09-21,Tractor
+Iran,Saleh Hardani,Defender,27,1998-12-26,Esteghlal
+Iran,Ehsan Hajsafi,Defender,36,1990-02-25,Sepahan
+Iran,Shojae Khalilzadeh,Defender,37,1989-05-14,Tractor
+Iran,Milad Mohammadi,Defender,32,1993-09-29,Persepolis
+Iran,Saeid Ezatolahi,Midfielder,29,1996-10-01,Shabab Al Ahli
+Iran,Alireza Jahanbakhsh,Midfielder,32,1993-08-11,Dender
+Iran,Mohammad Mohebi,Midfielder,27,1998-12-20,Rostov
+Iran,Mehdi Taremi,Forward,33,1992-07-18,Olympiacos
+Iran,Mehdi Ghayedi,Forward,27,1998-12-05,Al Nasr
+Iran,Ali Alipour,Forward,30,1995-11-11,Persepolis
+Iran,Payam Niazmand,Goalkeeper,31,1995-04-06,Persepolis
+Iran,Hossein Kanaanizadegan,Defender,32,1994-03-23,Persepolis
+Iran,Saman Ghoddos,Midfielder,32,1993-09-06,Kalba
+Iran,Rouzbeh Cheshmi,Midfielder,32,1993-07-24,Esteghlal
+Iran,Mehdi Torabi,Midfielder,31,1994-09-10,Tractor
+Iran,Aria Yousefi,Defender,24,2002-04-22,Sepahan
+Iran,Amirhossein Hosseinzadeh,Forward,25,2000-10-30,Tractor
+Iran,Ali Nemati,Defender,30,1996-02-08,Foolad
+Iran,Shahriyar Moghanlou,Forward,31,1994-12-21,Kalba
+Iran,Mohammad Ghorbani,Midfielder,24,2001-10-07,Al Wahda
+Iran,Hossein Hosseini,Goalkeeper,33,1992-06-30,Sepahan
+Iran,Ramin Rezaeian,Defender,36,1990-03-21,Foolad
+Iran,Dennis Eckert,Forward,29,1997-01-09,Standard Liège
+Iran,Danial Eiri,Defender,22,2003-10-26,Malavan
+Iran,Amirmohammad Razzaghinia,Midfielder,20,2006-04-11,Esteghlal
+New Zealand,Max Crocombe,Goalkeeper,32,1993-08-12,Millwall
+New Zealand,Tim Payne,Defender,32,1994-01-10,Wellington Phoenix
+New Zealand,Francis de Vries,Defender,31,1994-11-28,Auckland FC
+New Zealand,Tyler Bindon,Defender,21,2005-01-27,Sheffield United
+New Zealand,Michael Boxall,Defender,37,1988-08-18,Minnesota United FC
+New Zealand,Joe Bell,Midfielder,27,1999-04-27,Viking
+New Zealand,Logan Rogerson,Forward,28,1998-05-28,Auckland FC
+New Zealand,Marko Stamenić,Midfielder,24,2002-02-19,Swansea City
+New Zealand,Chris Wood,Forward,34,1991-12-07,Nottingham Forest
+New Zealand,Sarpreet Singh,Midfielder,27,1999-02-20,Wellington Phoenix
+New Zealand,Elijah Just,Midfielder,26,2000-05-01,Motherwell
+New Zealand,Alex Paulsen,Goalkeeper,23,2002-07-04,Lechia Gdańsk
+New Zealand,Liberato Cacace,Defender,25,2000-09-27,Wrexham
+New Zealand,Alex Rufer,Midfielder,29,1996-06-12,Wellington Phoenix
+New Zealand,Nando Pijnaker,Defender,27,1999-02-25,Auckland FC
+New Zealand,Finn Surman,Defender,22,2003-09-23,Portland Timbers
+New Zealand,Kosta Barbarouses,Forward,36,1990-02-19,Western Sydney Wanderers
+New Zealand,Ben Waine,Forward,25,2001-06-11,Port Vale
+New Zealand,Ben Old,Midfielder,23,2002-08-13,Saint-Étienne
+New Zealand,Callum McCowatt,Midfielder,27,1999-04-30,Silkeborg
+New Zealand,Jesse Randall,Forward,23,2002-08-19,Auckland FC
+New Zealand,Michael Woud,Goalkeeper,27,1999-01-16,Auckland FC
+New Zealand,Ryan Thomas,Midfielder,31,1994-12-20,PEC Zwolle
+New Zealand,Callan Elliot,Defender,26,1999-07-07,Auckland FC
+New Zealand,Lachlan Bayliss,Midfielder,23,2002-07-24,Newcastle Jets
+New Zealand,Tommy Smith,Defender,36,1990-03-31,Braintree Town
+Cape Verde,Vozinha,Goalkeeper,40,1986-06-03,Chaves
+Cape Verde,Stopira,Defender,38,1988-05-20,Torreense
+Cape Verde,Diney,Defender,31,1995-01-17,Al Bataeh
+Cape Verde,Roberto Lopes,Defender,33,1992-06-17,Shamrock Rovers
+Cape Verde,Logan Costa,Defender,25,2001-04-01,Villarreal
+Cape Verde,Kevin Pina,Midfielder,29,1997-01-27,Krasnodar
+Cape Verde,Jovane Cabral,Midfielder,27,1998-06-14,Estrela Amadora
+Cape Verde,João Paulo,Midfielder,28,1998-05-26,FCSB
+Cape Verde,Gilson Benchimol,Forward,24,2001-12-29,Akron Tolyatti
+Cape Verde,Jamiro Monteiro,Midfielder,32,1993-11-23,PEC Zwolle
+Cape Verde,Garry Rodrigues,Midfielder,35,1990-11-27,Apollon Limassol
+Cape Verde,Márcio Rosa,Goalkeeper,29,1997-02-23,Montana
+Cape Verde,Sidny Lopes Cabral,Defender,23,2002-09-18,Benfica
+Cape Verde,Deroy Duarte,Midfielder,26,1999-07-04,Ludogorets Razgrad
+Cape Verde,Laros Duarte,Midfielder,29,1997-02-28,Puskás Akadémia
+Cape Verde,Yannick Semedo,Midfielder,30,1995-12-29,Farense
+Cape Verde,Willy Semedo,Midfielder,32,1994-04-27,Omonia
+Cape Verde,Telmo Arcanjo,Midfielder,24,2001-06-21,Vitória de Guimarães
+Cape Verde,Dailon Livramento,Forward,25,2001-05-04,Casa Pia
+Cape Verde,Ryan Mendes,Forward,36,1990-01-08,Iğdır
+Cape Verde,Nuno da Costa,Midfielder,35,1991-02-10,İstanbul Başakşehir
+Cape Verde,Steven Moreira,Defender,31,1994-08-13,Columbus Crew
+Cape Verde,CJ dos Santos,Goalkeeper,25,2000-08-24,San Diego FC
+Cape Verde,Wagner Pina,Defender,23,2002-11-03,Trabzonspor
+Cape Verde,Kelvin Pires,Defender,26,2000-06-05,SJK
+Cape Verde,Hélio Varela,Midfielder,24,2002-05-03,Maccabi Tel Aviv
+Saudi Arabia,Nawaf Al-Aqidi,Goalkeeper,26,2000-05-10,Al-Nassr
+Saudi Arabia,Ali Majrashi,Defender,26,1999-10-02,Al-Ahli
+Saudi Arabia,Ali Lajami,Defender,30,1996-04-24,Al-Hilal
+Saudi Arabia,Abdulelah Al-Amri,Defender,29,1997-01-15,Al-Nassr
+Saudi Arabia,Hassan Al-Tambakti,Defender,27,1999-02-09,Al-Hilal
+Saudi Arabia,Nasser Al-Dawsari,Midfielder,27,1998-12-19,Al-Hilal
+Saudi Arabia,Musab Al-Juwayr,Midfielder,22,2003-06-20,Al-Qadsiah
+Saudi Arabia,Ayman Yahya,Forward,25,2001-05-14,Al-Nassr
+Saudi Arabia,Firas Al-Buraikan,Forward,26,2000-05-14,Al-Ahli
+Saudi Arabia,Salem Al-Dawsari,Forward,34,1991-08-19,Al-Hilal
+Saudi Arabia,Saleh Al-Shehri,Forward,32,1993-11-01,Al-Ittihad
+Saudi Arabia,Saud Abdulhamid,Defender,26,1999-07-18,Lens
+Saudi Arabia,Nawaf Boushal,Defender,26,1999-09-16,Al-Nassr
+Saudi Arabia,Hassan Kadesh,Defender,33,1992-09-26,Al-Ittihad
+Saudi Arabia,Abdullah Al-Khaibari,Midfielder,29,1996-08-16,Al-Nassr
+Saudi Arabia,Ziyad Al-Johani,Midfielder,24,2001-11-11,Al-Ahli
+Saudi Arabia,Khalid Al-Ghannam,Forward,25,2000-11-08,Al-Ettifaq
+Saudi Arabia,Alaa Al-Hejji,Midfielder,30,1995-12-03,Neom
+Saudi Arabia,Abdullah Al-Hamdan,Forward,26,1999-09-13,Al-Nassr
+Saudi Arabia,Sultan Mandash,Forward,31,1994-10-17,Al-Hilal
+Saudi Arabia,Mohammed Al-Owais,Goalkeeper,34,1991-10-10,Al-Ula
+Saudi Arabia,Ahmed Al-Kassar,Goalkeeper,35,1991-05-08,Al-Qadsiah
+Saudi Arabia,Mohamed Kanno,Midfielder,31,1994-09-22,Al-Hilal
+Saudi Arabia,Moteb Al-Harbi,Defender,26,2000-02-20,Al-Hilal
+Saudi Arabia,Jehad Thakri,Defender,24,2001-07-21,Al-Qadsiah
+Saudi Arabia,Mohammed Abu Al-Shamat,Defender,23,2002-08-11,Al-Qadsiah
+Spain,David Raya,Goalkeeper,30,1995-09-15,Arsenal
+Spain,Marc Pubill,Defender,22,2003-06-20,Atlético Madrid
+Spain,Álex Grimaldo,Defender,30,1995-09-20,Bayer Leverkusen
+Spain,Eric García,Defender,25,2001-01-09,Barcelona
+Spain,Marcos Llorente,Defender,31,1995-01-30,Atlético Madrid
+Spain,Mikel Merino,Midfielder,29,1996-06-22,Arsenal
+Spain,Ferran Torres,Forward,26,2000-02-29,Barcelona
+Spain,Fabián Ruiz,Midfielder,30,1996-04-03,Paris Saint-Germain
+Spain,Gavi,Midfielder,21,2004-08-05,Barcelona
+Spain,Dani Olmo,Forward,28,1998-05-07,Barcelona
+Spain,Yéremy Pino,Forward,23,2002-10-20,Crystal Palace
+Spain,Pedro Porro,Defender,26,1999-09-13,Tottenham Hotspur
+Spain,Joan Garcia,Goalkeeper,25,2001-05-04,Barcelona
+Spain,Aymeric Laporte,Defender,32,1994-05-27,Athletic Bilbao
+Spain,Álex Baena,Midfielder,24,2001-07-20,Atlético Madrid
+Spain,Rodri,Midfielder,29,1996-06-22,Manchester City
+Spain,Nico Williams,Forward,23,2002-07-12,Athletic Bilbao
+Spain,Martín Zubimendi,Midfielder,27,1999-02-02,Arsenal
+Spain,Lamine Yamal,Forward,18,2007-07-13,Barcelona
+Spain,Pedri,Midfielder,23,2002-11-25,Barcelona
+Spain,Mikel Oyarzabal,Forward,29,1997-04-21,Real Sociedad
+Spain,Pau Cubarsí,Defender,19,2007-01-22,Barcelona
+Spain,Unai Simón,Goalkeeper,29,1997-06-11,Athletic Bilbao
+Spain,Marc Cucurella,Defender,27,1998-07-22,Chelsea
+Spain,Víctor Muñoz,Forward,22,2003-07-13,Osasuna
+Spain,Borja Iglesias,Forward,33,1993-01-17,Celta Vigo
+Uruguay,Sergio Rochet,Goalkeeper,33,1993-03-23,Internacional
+Uruguay,José María Giménez,Defender,31,1995-01-20,Atlético Madrid
+Uruguay,Sebastián Cáceres,Defender,26,1999-08-18,América
+Uruguay,Ronald Araújo,Defender,27,1999-03-07,Barcelona
+Uruguay,Manuel Ugarte,Midfielder,25,2001-04-11,Manchester United
+Uruguay,Rodrigo Bentancur,Midfielder,28,1997-06-25,Tottenham Hotspur
+Uruguay,Nicolás de la Cruz,Midfielder,29,1997-06-01,Flamengo
+Uruguay,Federico Valverde,Midfielder,27,1998-07-22,Real Madrid
+Uruguay,Darwin Núñez,Forward,26,1999-06-24,Al-Hilal
+Uruguay,Giorgian de Arrascaeta,Midfielder,32,1994-06-01,Flamengo
+Uruguay,Facundo Pellistri,Forward,24,2001-12-20,Panathinaikos
+Uruguay,Santiago Mele,Goalkeeper,28,1997-09-06,Monterrey
+Uruguay,Guillermo Varela,Defender,33,1993-03-24,Flamengo
+Uruguay,Agustín Canobbio,Midfielder,27,1998-10-01,Fluminense
+Uruguay,Emiliano Martínez,Midfielder,26,1999-08-17,Palmeiras
+Uruguay,Mathías Olivera,Defender,28,1997-10-31,Napoli
+Uruguay,Matías Viña,Defender,28,1997-11-09,River Plate
+Uruguay,Brian Rodríguez,Forward,26,2000-05-20,América
+Uruguay,Rodrigo Aguirre,Forward,31,1994-10-01,Tigres UANL
+Uruguay,Maximiliano Araújo,Midfielder,26,2000-02-15,Sporting CP
+Uruguay,Federico Viñas,Forward,27,1998-06-30,Oviedo
+Uruguay,Joaquín Piquerez,Midfielder,27,1998-08-24,Palmeiras
+Uruguay,Fernando Muslera,Goalkeeper,39,1986-06-16,Estudiantes
+Uruguay,Santiago Bueno,Defender,27,1998-11-09,Wolverhampton Wanderers
+Uruguay,Juan Manuel Sanabria,Midfielder,26,2000-03-29,Real Salt Lake
+Uruguay,Rodrigo Zalazar,Midfielder,26,1999-08-12,Braga
+France,Brice Samba,Goalkeeper,32,1994-04-25,Rennes
+France,Malo Gusto,Defender,23,2003-05-19,Chelsea
+France,Lucas Digne,Defender,32,1993-07-20,Aston Villa
+France,Dayot Upamecano,Defender,27,1998-10-27,Bayern Munich
+France,Jules Koundé,Defender,27,1998-11-12,Barcelona
+France,Manu Koné,Midfielder,25,2001-05-17,Roma
+France,Ousmane Dembélé,Forward,29,1997-05-15,Paris Saint-Germain
+France,Aurélien Tchouaméni,Midfielder,26,2000-01-27,Real Madrid
+France,Marcus Thuram,Forward,28,1997-08-06,Inter Milan
+France,Kylian Mbappé,Forward,27,1998-12-20,Real Madrid
+France,Michael Olise,Forward,24,2001-12-12,Bayern Munich
+France,Bradley Barcola,Forward,23,2002-09-02,Paris Saint-Germain
+France,N'Golo Kanté,Midfielder,35,1991-03-29,Fenerbahçe
+France,Adrien Rabiot,Midfielder,31,1995-04-03,Milan
+France,Ibrahima Konaté,Defender,27,1999-05-25,Liverpool
+France,Mike Maignan,Goalkeeper,30,1995-07-03,Milan
+France,William Saliba,Defender,25,2001-03-24,Arsenal
+France,Warren Zaïre-Emery,Midfielder,20,2006-03-08,Paris Saint-Germain
+France,Théo Hernandez,Defender,28,1997-10-06,Al-Hilal
+France,Désiré Doué,Forward,21,2005-06-03,Paris Saint-Germain
+France,Lucas Hernandez,Defender,30,1996-02-14,Paris Saint-Germain
+France,Jean-Philippe Mateta,Forward,28,1997-06-28,Crystal Palace
+France,Robin Risser,Goalkeeper,21,2004-12-02,Lens
+France,Rayan Cherki,Midfielder,22,2003-08-17,Manchester City
+France,Maghnes Akliouche,Midfielder,24,2002-02-25,Monaco
+France,Maxence Lacroix,Defender,26,2000-04-06,Crystal Palace
+Iraq,Fahad Talib,Goalkeeper,31,1994-10-21,Al-Talaba
+Iraq,Rebin Sulaka,Defender,34,1992-04-12,Port
+Iraq,Hussein Ali,Defender,24,2002-03-01,Pogoń Szczecin
+Iraq,Zaid Tahseen,Defender,25,2001-01-29,Pakhtakor
+Iraq,Akam Hashim,Defender,27,1998-08-16,Al-Zawraa
+Iraq,Manaf Younis,Defender,29,1996-11-16,Al-Shorta
+Iraq,Youssef Amyn,Midfielder,22,2003-08-21,AEK Larnaca
+Iraq,Ibrahim Bayesh,Midfielder,26,2000-05-01,Al Dhafra
+Iraq,Ali Al-Hamadi,Forward,24,2002-03-01,Luton Town
+Iraq,Mohanad Ali,Forward,25,2000-06-20,Dibba
+Iraq,Ahmed Qasem,Forward,22,2003-07-12,Nashville SC
+Iraq,Jalal Hassan,Goalkeeper,35,1991-05-18,Al-Zawraa
+Iraq,Ali Yousif,Forward,30,1996-01-19,Al-Talaba
+Iraq,Zidane Iqbal,Midfielder,23,2003-04-27,Utrecht
+Iraq,Ahmed Maknzi,Defender,24,2001-09-24,Al-Karma
+Iraq,Amir Al-Ammari,Midfielder,28,1997-07-27,Cracovia
+Iraq,Ali Jasim,Forward,22,2004-01-20,Al-Najma
+Iraq,Aymen Hussein,Forward,30,1996-03-22,Al-Karma
+Iraq,Kevin Yakob,Midfielder,25,2000-10-10,AGF
+Iraq,Aimar Sher,Midfielder,23,2002-12-20,Sarpsborg 08
+Iraq,Marko Farji,Forward,22,2004-03-16,Venezia
+Iraq,Ahmed Basil,Goalkeeper,29,1996-08-19,Al-Shorta
+Iraq,Merchas Doski,Defender,26,1999-12-07,Viktoria Plzeň
+Iraq,Zaid Ismail,Midfielder,24,2002-01-03,Al-Talaba
+Iraq,Mustafa Saadoon,Defender,25,2001-05-25,Al-Shorta
+Iraq,Frans Putros,Defender,32,1993-07-14,Persib
+Norway,Ørjan Nyland,Goalkeeper,35,1990-09-10,Sevilla
+Norway,Morten Thorsby,Midfielder,30,1996-05-05,Cremonese
+Norway,Kristoffer Ajer,Defender,28,1998-04-17,Brentford
+Norway,Leo Østigård,Defender,26,1999-11-28,Genoa
+Norway,David Møller Wolfe,Defender,24,2002-04-23,Wolverhampton Wanderers
+Norway,Patrick Berg,Midfielder,28,1997-11-24,Bodø/Glimt
+Norway,Alexander Sørloth,Forward,30,1995-12-05,Atlético Madrid
+Norway,Sander Berge,Midfielder,28,1998-02-14,Fulham
+Norway,Erling Haaland,Forward,25,2000-07-21,Manchester City
+Norway,Martin Ødegaard,Midfielder,27,1998-12-17,Arsenal
+Norway,Jørgen Strand Larsen,Forward,26,2000-02-06,Crystal Palace
+Norway,Sander Tangvik,Goalkeeper,23,2002-11-29,Hamburger SV
+Norway,Egil Selvik,Goalkeeper,28,1997-07-30,Watford
+Norway,Fredrik Aursnes,Midfielder,30,1995-12-10,Benfica
+Norway,Fredrik André Bjørkan,Defender,27,1998-08-21,Bodø/Glimt
+Norway,Marcus Holmgren Pedersen,Defender,25,2000-07-16,Torino
+Norway,Torbjørn Heggem,Defender,27,1999-01-12,Bologna
+Norway,Kristian Thorstvedt,Midfielder,27,1999-03-13,Sassuolo
+Norway,Thelo Aasgaard,Midfielder,24,2002-05-02,Rangers
+Norway,Antonio Nusa,Midfielder,21,2005-04-17,RB Leipzig
+Norway,Andreas Schjelderup,Midfielder,22,2004-06-01,Benfica
+Norway,Oscar Bobb,Midfielder,22,2003-07-12,Fulham
+Norway,Jens Petter Hauge,Midfielder,26,1999-10-12,Bodø/Glimt
+Norway,Sondre Langås,Defender,25,2001-02-02,Derby County
+Norway,Henrik Falchener,Defender,23,2003-05-08,Viking
+Norway,Julian Ryerson,Defender,28,1997-11-17,Borussia Dortmund
+Senegal,Yehvann Diouf,Goalkeeper,26,1999-11-16,Nice
+Senegal,Mamadou Sarr,Defender,20,2005-08-29,Chelsea
+Senegal,Kalidou Koulibaly,Defender,34,1991-06-20,Al-Hilal
+Senegal,Abdoulaye Seck,Defender,34,1992-06-04,Maccabi Haifa
+Senegal,Idrissa Gueye,Midfielder,36,1989-09-26,Everton
+Senegal,Pathé Ciss,Midfielder,32,1994-03-16,Rayo Vallecano
+Senegal,Assane Diao,Forward,20,2005-09-07,Como
+Senegal,Lamine Camara,Midfielder,22,2004-01-01,Monaco
+Senegal,Bamba Dieng,Forward,26,2000-03-23,Lorient
+Senegal,Sadio Mané,Forward,34,1992-04-10,Al-Nassr
+Senegal,Nicolas Jackson,Forward,24,2001-06-20,Bayern Munich
+Senegal,Cherif Ndiaye,Forward,30,1996-01-23,Samsunspor
+Senegal,Iliman Ndiaye,Forward,26,2000-03-06,Everton
+Senegal,Ismail Jakobs,Defender,26,1999-08-17,Galatasaray
+Senegal,Krépin Diatta,Defender,27,1999-02-25,Monaco
+Senegal,Édouard Mendy,Goalkeeper,34,1992-03-01,Al-Ahli
+Senegal,Pape Matar Sarr,Midfielder,23,2002-09-14,Tottenham Hotspur
+Senegal,Ismaïla Sarr,Forward,28,1998-02-25,Crystal Palace
+Senegal,Moussa Niakhaté,Defender,30,1996-03-08,Lyon
+Senegal,Ibrahim Mbaye,Forward,18,2008-01-24,Paris Saint-Germain
+Senegal,Habib Diarra,Midfielder,22,2004-01-03,Sunderland
+Senegal,Bara Sapoko Ndiaye,Midfielder,18,2007-12-31,Bayern Munich
+Senegal,Mory Diaw,Goalkeeper,32,1993-06-22,Le Havre
+Senegal,Antoine Mendy,Defender,22,2004-05-27,Nice
+Senegal,El Hadji Malick Diouf,Defender,21,2004-12-29,West Ham United
+Senegal,Pape Gueye,Midfielder,27,1999-01-24,Villarreal
+Algeria,Melvin Mastil,Goalkeeper,26,2000-02-19,Stade Nyonnais
+Algeria,Aïssa Mandi,Defender,34,1991-10-22,Lille
+Algeria,Achref Abada,Defender,26,1999-06-15,USM Alger
+Algeria,Mohamed Amine Tougai,Defender,26,2000-01-22,Espérance de Tunis
+Algeria,Zineddine Belaïd,Defender,27,1999-03-20,JS Kabylie
+Algeria,Ramiz Zerrouki,Midfielder,28,1998-05-26,Twente
+Algeria,Riyad Mahrez,Forward,35,1991-02-21,Al-Ahli
+Algeria,Houssem Aouar,Midfielder,27,1998-06-30,Al-Ittihad
+Algeria,Amine Gouiri,Forward,26,2000-02-16,Marseille
+Algeria,Farès Chaïbi,Midfielder,23,2002-11-28,Eintracht Frankfurt
+Algeria,Anis Hadj Moussa,Forward,24,2002-02-11,Feyenoord
+Algeria,Nadhir Benbouali,Forward,26,2000-04-17,Győri ETO
+Algeria,Jaouen Hadjam,Defender,23,2003-03-26,Young Boys
+Algeria,Hicham Boudaoui,Midfielder,26,1999-09-23,Nice
+Algeria,Rayan Aït-Nouri,Defender,25,2001-06-06,Manchester City
+Algeria,Oussama Benbot,Goalkeeper,31,1994-10-11,USM Alger
+Algeria,Rafik Belghali,Defender,24,2002-06-07,Hellas Verona
+Algeria,Mohamed Amoura,Forward,26,2000-05-09,VfL Wolfsburg
+Algeria,Nabil Bentaleb,Midfielder,31,1994-11-24,Lille
+Algeria,Adil Boulbina,Forward,23,2003-05-02,Al-Duhail
+Algeria,Ramy Bensebaini,Defender,31,1995-04-16,Borussia Dortmund
+Algeria,Ibrahim Maza,Midfielder,20,2005-11-24,Bayer Leverkusen
+Algeria,Luca Zidane,Goalkeeper,28,1998-05-13,Granada
+Algeria,Yacine Titraoui,Midfielder,22,2003-07-26,Charleroi
+Algeria,Farès Ghedjemis,Forward,23,2002-09-06,Frosinone
+Algeria,Samir Chergui,Defender,27,1999-02-06,Paris FC
+Argentina,Juan Musso,Goalkeeper,32,1994-05-06,Atlético Madrid
+Argentina,Marcos Senesi,Defender,29,1997-05-10,Bournemouth
+Argentina,Nicolás Tagliafico,Defender,33,1992-08-31,Lyon
+Argentina,Gonzalo Montiel,Defender,29,1997-01-01,River Plate
+Argentina,Leandro Paredes,Midfielder,31,1994-06-29,Boca Juniors
+Argentina,Lisandro Martínez,Defender,28,1998-01-18,Manchester United
+Argentina,Rodrigo De Paul,Midfielder,32,1994-05-24,Inter Miami CF
+Argentina,Valentín Barco,Midfielder,21,2004-07-23,Strasbourg
+Argentina,Julián Alvarez,Forward,26,2000-01-31,Atlético Madrid
+Argentina,Lionel Messi,Forward,38,1987-06-24,Inter Miami CF
+Argentina,Giovani Lo Celso,Midfielder,30,1996-04-09,Real Betis
+Argentina,Gerónimo Rulli,Goalkeeper,34,1992-05-20,Marseille
+Argentina,Cristian Romero,Defender,28,1998-04-27,Tottenham Hotspur
+Argentina,Exequiel Palacios,Midfielder,27,1998-10-05,Bayer Leverkusen
+Argentina,Nicolás González,Midfielder,28,1998-04-06,Atlético Madrid
+Argentina,Thiago Almada,Forward,25,2001-04-26,Atlético Madrid
+Argentina,Giuliano Simeone,Forward,23,2002-12-18,Atlético Madrid
+Argentina,Nico Paz,Forward,21,2004-09-08,Como
+Argentina,Nicolás Otamendi,Defender,38,1988-02-12,Benfica
+Argentina,Alexis Mac Allister,Midfielder,27,1998-12-24,Liverpool
+Argentina,José Manuel López,Forward,25,2000-12-06,Palmeiras
+Argentina,Lautaro Martínez,Forward,28,1997-08-22,Inter Milan
+Argentina,Emiliano Martínez,Goalkeeper,33,1992-09-02,Aston Villa
+Argentina,Enzo Fernández,Midfielder,25,2001-01-17,Chelsea
+Argentina,Facundo Medina,Defender,27,1999-05-28,Marseille
+Argentina,Nahuel Molina,Defender,28,1998-04-06,Atlético Madrid
+Austria,Alexander Schlager,Goalkeeper,30,1996-02-01,Red Bull Salzburg
+Austria,David Affengruber,Defender,25,2001-03-19,Elche
+Austria,Kevin Danso,Defender,27,1998-09-19,Tottenham Hotspur
+Austria,Xaver Schlager,Midfielder,28,1997-09-28,RB Leipzig
+Austria,Stefan Posch,Defender,29,1997-05-14,Mainz 05
+Austria,Nicolas Seiwald,Midfielder,25,2001-05-04,RB Leipzig
+Austria,Marko Arnautović,Forward,37,1989-04-19,Red Star Belgrade
+Austria,David Alaba,Defender,33,1992-06-24,Real Madrid
+Austria,Marcel Sabitzer,Midfielder,32,1994-03-17,Borussia Dortmund
+Austria,Florian Grillitsch,Midfielder,30,1995-08-07,Braga
+Austria,Michael Gregoritsch,Forward,32,1994-04-18,FC Augsburg
+Austria,Florian Wiegele,Goalkeeper,25,2001-03-21,Viktoria Plzeň
+Austria,Patrick Pentz,Goalkeeper,29,1997-01-02,Brøndby
+Austria,Saša Kalajdžić,Forward,28,1997-07-07,LASK
+Austria,Philipp Lienhart,Defender,29,1996-07-11,SC Freiburg
+Austria,Phillipp Mwene,Defender,32,1994-01-29,Mainz 05
+Austria,Carney Chukwuemeka,Midfielder,22,2003-10-20,Borussia Dortmund
+Austria,Romano Schmid,Midfielder,26,2000-01-27,Werder Bremen
+Austria,Dejan Ljubičić,Midfielder,28,1997-10-08,Schalke 04
+Austria,Konrad Laimer,Midfielder,29,1997-05-27,Bayern Munich
+Austria,Patrick Wimmer,Forward,25,2001-05-30,VfL Wolfsburg
+Austria,Alexander Prass,Midfielder,25,2001-05-26,TSG Hoffenheim
+Austria,Marco Friedl,Defender,28,1998-03-16,Werder Bremen
+Austria,Paul Wanner,Midfielder,20,2005-12-23,PSV Eindhoven
+Austria,Michael Svoboda,Defender,27,1998-10-15,Venezia
+Austria,Alessandro Schöpf,Midfielder,32,1994-02-07,Wolfsberger AC
+Jordan,Yazeed Abulaila,Goalkeeper,33,1993-01-08,Al-Hussein
+Jordan,Mohammad Abu Hashish,Defender,31,1995-05-09,Al-Karma
+Jordan,Abdallah Nasib,Defender,32,1994-02-25,Al-Zawraa
+Jordan,Husam Abu Dahab,Defender,26,2000-05-13,Al-Faisaly
+Jordan,Yazan Al-Arab,Defender,30,1996-01-31,FC Seoul
+Jordan,Amer Jamous,Midfielder,23,2002-07-03,Al-Zawraa
+Jordan,Mohammad Abu Zrayq,Forward,28,1997-12-30,Raja Casablanca
+Jordan,Noor Al-Rawabdeh,Midfielder,29,1997-02-24,Selangor
+Jordan,Ali Olwan,Forward,26,2000-03-26,Al-Sailiya
+Jordan,Musa Al-Taamari,Forward,29,1997-06-10,Rennes
+Jordan,Odeh Al-Fakhouri,Forward,20,2005-11-22,Pyramids
+Jordan,Nour Bani Attiah,Goalkeeper,33,1993-01-25,Al-Faisaly
+Jordan,Mahmoud Al-Mardi,Forward,32,1993-10-06,Al-Hussein
+Jordan,Rajaei Ayed,Midfielder,32,1993-07-25,Al-Hussein
+Jordan,Ibrahim Sadeh,Midfielder,26,2000-04-27,Al-Karma
+Jordan,Mo Abualnadi,Defender,25,2001-02-08,Selangor
+Jordan,Salim Obaid,Defender,34,1992-01-17,Al-Hussein
+Jordan,Mohammad Taha,Midfielder,20,2005-07-13,Al-Hussein
+Jordan,Saed Al-Rosan,Defender,29,1997-02-01,Al-Hussein
+Jordan,Mohannad Abu Taha,Midfielder,23,2003-02-02,Al-Quwa Al-Jawiya
+Jordan,Nizar Al-Rashdan,Midfielder,27,1999-03-23,Qatar SC
+Jordan,Abdallah Al-Fakhouri,Goalkeeper,26,2000-01-22,Al-Wehdat
+Jordan,Ihsan Haddad,Defender,32,1994-02-05,Al-Hussein
+Jordan,Ali Azaizeh,Forward,22,2004-04-13,Al-Shabab
+Jordan,Mohammad Al-Dawoud,Midfielder,34,1992-04-12,Al-Wehdat
+Jordan,Anas Badawi,Defender,28,1997-09-13,Al-Faisaly
+Colombia,David Ospina,Goalkeeper,37,1988-08-31,Atlético Nacional
+Colombia,Daniel Muñoz,Defender,30,1996-05-26,Crystal Palace
+Colombia,Jhon Lucumí,Defender,27,1998-06-26,Bologna
+Colombia,Santiago Arias,Defender,34,1992-01-13,Independiente
+Colombia,Kevin Castaño,Midfielder,25,2000-09-29,River Plate
+Colombia,Richard Ríos,Midfielder,26,2000-06-02,Benfica
+Colombia,Luis Díaz,Forward,29,1997-01-13,Bayern Munich
+Colombia,Jorge Carrascal,Midfielder,28,1998-05-25,Flamengo
+Colombia,Jhon Córdoba,Forward,33,1993-05-11,Krasnodar
+Colombia,James Rodríguez,Midfielder,34,1991-07-12,Minnesota United FC
+Colombia,Jhon Arias,Midfielder,28,1997-09-21,Palmeiras
+Colombia,Camilo Vargas,Goalkeeper,37,1989-03-09,Atlas
+Colombia,Yerry Mina,Defender,31,1994-09-23,Cagliari
+Colombia,Gustavo Puerta,Defender,22,2003-07-23,Racing Santander
+Colombia,Juan Portilla,Midfielder,27,1998-09-12,Athletico Paranaense
+Colombia,Jefferson Lerma,Midfielder,31,1994-10-25,Crystal Palace
+Colombia,Johan Mojica,Defender,33,1992-08-21,Mallorca
+Colombia,Willer Ditta,Defender,28,1998-01-23,Cruz Azul
+Colombia,Cucho Hernández,Forward,27,1999-04-20,Real Betis
+Colombia,Juan Fernando Quintero,Midfielder,33,1993-01-18,River Plate
+Colombia,Jaminton Campaz,Forward,26,2000-05-24,Rosario Central
+Colombia,Deiver Machado,Defender,32,1993-09-02,Nantes
+Colombia,Davinson Sánchez,Defender,29,1996-06-12,Galatasaray
+Colombia,Álvaro Montero,Goalkeeper,31,1995-03-29,Vélez Sarsfield
+Colombia,Luis Suárez,Forward,28,1997-12-02,Sporting CP
+Colombia,Andrés Gómez,Forward,23,2002-09-12,Vasco da Gama
+DR Congo,Lionel Mpasi,Goalkeeper,31,1994-08-01,Le Havre
+DR Congo,Aaron Wan-Bissaka,Defender,28,1997-11-26,West Ham United
+DR Congo,Steve Kapuadi,Defender,28,1998-04-30,Widzew Łódź
+DR Congo,Axel Tuanzebe,Defender,28,1997-11-14,Burnley
+DR Congo,Dylan Batubinsika,Defender,30,1996-02-15,AEL
+DR Congo,Ngal'ayel Mukau,Midfielder,21,2004-11-03,Lille
+DR Congo,Nathanaël Mbuku,Midfielder,24,2002-03-16,Montpellier
+DR Congo,Samuel Moutoussamy,Midfielder,29,1996-08-12,Atromitos
+DR Congo,Brian Cipenga,Forward,28,1998-03-11,Castellón
+DR Congo,Théo Bongonda,Midfielder,30,1995-11-20,Spartak Moscow
+DR Congo,Gaël Kakuta,Forward,34,1991-06-21,AEL
+DR Congo,Joris Kayembe,Defender,31,1994-08-08,Genk
+DR Congo,Meschak Elia,Forward,28,1997-08-06,Alanyaspor
+DR Congo,Noah Sadiki,Midfielder,21,2004-12-17,Sunderland
+DR Congo,Aaron Tshibola,Midfielder,31,1995-01-02,Kilmarnock
+DR Congo,Timothy Fayulu,Goalkeeper,26,1999-07-24,Noah
+DR Congo,Cédric Bakambu,Forward,35,1991-04-11,Real Betis
+DR Congo,Charles Pickel,Midfielder,29,1997-05-15,Espanyol
+DR Congo,Fiston Mayele,Forward,31,1994-06-24,Pyramids
+DR Congo,Yoane Wissa,Forward,29,1996-09-03,Newcastle United
+DR Congo,Matthieu Epolo,Goalkeeper,21,2005-01-15,Standard Liège
+DR Congo,Chancel Mbemba,Defender,31,1994-08-08,Lille
+DR Congo,Simon Banza,Forward,29,1996-08-13,Al Jazira
+DR Congo,Gédéon Kalulu,Defender,28,1997-08-29,Aris Limassol
+DR Congo,Edo Kayembe,Midfielder,28,1998-06-03,Watford
+DR Congo,Arthur Masuaku,Defender,32,1993-11-07,Lens
+Portugal,Diogo Costa,Goalkeeper,26,1999-09-19,Porto
+Portugal,Nélson Semedo,Defender,32,1993-11-16,Fenerbahçe
+Portugal,Rúben Dias,Defender,29,1997-05-14,Manchester City
+Portugal,Tomás Araújo,Defender,24,2002-05-16,Benfica
+Portugal,Diogo Dalot,Defender,27,1999-03-18,Manchester United
+Portugal,Matheus Nunes,Midfielder,27,1998-08-27,Manchester City
+Portugal,Cristiano Ronaldo,Forward,41,1985-02-05,Al-Nassr
+Portugal,Bruno Fernandes,Midfielder,31,1994-09-08,Manchester United
+Portugal,Gonçalo Ramos,Forward,24,2001-06-20,Paris Saint-Germain
+Portugal,Bernardo Silva,Midfielder,31,1994-08-10,Manchester City
+Portugal,João Félix,Forward,26,1999-11-10,Al-Nassr
+Portugal,José Sá,Goalkeeper,33,1993-01-17,Wolverhampton Wanderers
+Portugal,Renato Veiga,Defender,22,2003-07-29,Villarreal
+Portugal,Gonçalo Inácio,Defender,24,2001-08-25,Sporting CP
+Portugal,João Neves,Midfielder,21,2004-09-27,Paris Saint-Germain
+Portugal,Francisco Trincão,Forward,26,1999-12-29,Sporting CP
+Portugal,Rafael Leão,Forward,27,1999-06-10,Milan
+Portugal,Pedro Neto,Forward,26,2000-03-09,Chelsea
+Portugal,Gonçalo Guedes,Forward,29,1996-11-29,Real Sociedad
+Portugal,João Cancelo,Defender,32,1994-05-27,Barcelona
+Portugal,Rúben Neves,Midfielder,29,1997-03-13,Al-Hilal
+Portugal,Rui Silva,Goalkeeper,32,1994-02-07,Sporting CP
+Portugal,Vitinha,Midfielder,26,2000-02-13,Paris Saint-Germain
+Portugal,Samú Costa,Defender,25,2000-11-27,Mallorca
+Portugal,Nuno Mendes,Defender,23,2002-06-19,Paris Saint-Germain
+Portugal,Francisco Conceição,Forward,23,2002-12-14,Juventus
+Uzbekistan,Utkir Yusupov,Goalkeeper,35,1991-01-04,Navbahor Namangan
+Uzbekistan,Abdukodir Khusanov,Defender,22,2004-02-29,Manchester City
+Uzbekistan,Khojiakbar Alijonov,Defender,29,1997-04-19,Pakhtakor
+Uzbekistan,Farrukh Sayfiev,Defender,35,1991-01-17,Neftchi Fergana
+Uzbekistan,Rustam Ashurmatov,Defender,29,1996-07-07,Esteghlal
+Uzbekistan,Akmal Mozgovoy,Midfielder,27,1999-04-02,Pakhtakor
+Uzbekistan,Otabek Shukurov,Midfielder,29,1996-06-22,Baniyas
+Uzbekistan,Jamshid Iskanderov,Midfielder,32,1993-10-16,Neftchi Fergana
+Uzbekistan,Odiljon Hamrobekov,Midfielder,30,1996-02-13,Tractor
+Uzbekistan,Jaloliddin Masharipov,Midfielder,32,1993-09-01,Esteghlal
+Uzbekistan,Oston Urunov,Midfielder,25,2000-12-19,Persepolis
+Uzbekistan,Abduvohid Nematov,Goalkeeper,25,2001-03-20,Nasaf
+Uzbekistan,Sherzod Nasrullaev,Defender,27,1998-07-23,Nasaf
+Uzbekistan,Eldor Shomurodov,Forward,30,1995-06-29,İstanbul Başakşehir
+Uzbekistan,Umar Eshmurodov,Defender,33,1992-11-30,Nasaf
+Uzbekistan,Botirali Ergashev,Goalkeeper,30,1995-06-23,Neftchi Fergana
+Uzbekistan,Dostonbek Khamdamov,Midfielder,29,1996-07-24,Pakhtakor
+Uzbekistan,Abdulla Abdullaev,Defender,28,1997-09-01,Dibba
+Uzbekistan,Azizjon Ganiev,Midfielder,28,1998-02-22,Al Bataeh
+Uzbekistan,Azizbek Amonov,Forward,28,1997-10-30,Dinamo Samarqand
+Uzbekistan,Igor Sergeev,Forward,33,1993-04-30,Persepolis
+Uzbekistan,Abbosbek Fayzullaev,Midfielder,22,2003-10-03,İstanbul Başakşehir
+Uzbekistan,Sherzod Esanov,Midfielder,23,2003-02-01,Bukhara
+Uzbekistan,Bekhruz Karimov,Defender,18,2007-08-07,Surkhon Termiz
+Uzbekistan,Avazbek Ulmasaliev,Defender,26,2000-03-27,AGMK
+Uzbekistan,Jakhongir Urozov,Defender,22,2004-01-18,Dinamo Samarqand
+Croatia,Dominik Livaković,Goalkeeper,31,1995-01-09,Dinamo Zagreb
+Croatia,Josip Stanišić,Defender,26,2000-04-02,Bayern Munich
+Croatia,Marin Pongračić,Defender,28,1997-09-11,Fiorentina
+Croatia,Joško Gvardiol,Defender,24,2002-01-23,Manchester City
+Croatia,Duje Ćaleta-Car,Defender,29,1996-09-17,Real Sociedad
+Croatia,Josip Šutalo,Defender,26,2000-02-28,Ajax
+Croatia,Nikola Moro,Midfielder,28,1998-03-12,Bologna
+Croatia,Mateo Kovačić,Midfielder,32,1994-05-06,Manchester City
+Croatia,Andrej Kramarić,Forward,34,1991-06-19,TSG Hoffenheim
+Croatia,Luka Modrić,Midfielder,40,1985-09-09,Milan
+Croatia,Ante Budimir,Forward,34,1991-07-22,Osasuna
+Croatia,Ivor Pandur,Goalkeeper,26,2000-03-25,Hull City
+Croatia,Nikola Vlašić,Midfielder,28,1997-10-04,Torino
+Croatia,Ivan Perišić,Forward,37,1989-02-02,PSV Eindhoven
+Croatia,Mario Pašalić,Midfielder,31,1995-02-09,Atalanta
+Croatia,Martin Baturina,Midfielder,23,2003-02-16,Como
+Croatia,Petar Sučić,Midfielder,22,2003-10-25,Inter Milan
+Croatia,Kristijan Jakić,Defender,29,1997-05-14,FC Augsburg
+Croatia,Toni Fruk,Midfielder,25,2001-03-09,Rijeka
+Croatia,Igor Matanović,Forward,23,2003-03-31,SC Freiburg
+Croatia,Luka Sučić,Midfielder,23,2002-09-08,Real Sociedad
+Croatia,Luka Vušković,Defender,19,2007-02-24,Hamburger SV
+Croatia,Dominik Kotarski,Goalkeeper,26,2000-02-10,Copenhagen
+Croatia,Marco Pašalić,Forward,25,2000-09-14,Orlando City SC
+Croatia,Martin Erlić,Defender,28,1998-01-24,Midtjylland
+Croatia,Petar Musa,Forward,28,1998-03-04,FC Dallas
+England,Jordan Pickford,Goalkeeper,32,1994-03-07,Everton
+England,Ezri Konsa,Defender,28,1997-10-23,Aston Villa
+England,Nico O'Reilly,Defender,21,2005-03-21,Manchester City
+England,Declan Rice,Midfielder,27,1999-01-14,Arsenal
+England,John Stones,Defender,32,1994-05-28,Manchester City
+England,Marc Guéhi,Defender,25,2000-07-13,Manchester City
+England,Bukayo Saka,Forward,24,2001-09-05,Arsenal
+England,Elliot Anderson,Midfielder,23,2002-11-06,Nottingham Forest
+England,Harry Kane,Forward,32,1993-07-28,Bayern Munich
+England,Jude Bellingham,Midfielder,22,2003-06-29,Real Madrid
+England,Marcus Rashford,Forward,28,1997-10-31,Barcelona
+England,Tino Livramento,Defender,23,2002-11-12,Newcastle United
+England,Dean Henderson,Goalkeeper,29,1997-03-12,Crystal Palace
+England,Jordan Henderson,Midfielder,35,1990-06-17,Brentford
+England,Dan Burn,Defender,34,1992-05-09,Newcastle United
+England,Kobbie Mainoo,Midfielder,21,2005-04-19,Manchester United
+England,Morgan Rogers,Midfielder,23,2002-07-26,Aston Villa
+England,Anthony Gordon,Forward,25,2001-02-24,Newcastle United
+England,Ollie Watkins,Forward,30,1995-12-30,Aston Villa
+England,Noni Madueke,Forward,24,2002-03-10,Arsenal
+England,Eberechi Eze,Midfielder,27,1998-06-29,Arsenal
+England,Ivan Toney,Forward,30,1996-03-16,Al-Ahli
+England,James Trafford,Goalkeeper,23,2002-10-10,Manchester City
+England,Reece James,Defender,26,1999-12-08,Chelsea
+England,Djed Spence,Defender,25,2000-08-09,Tottenham Hotspur
+England,Jarell Quansah,Defender,23,2003-01-29,Bayer Leverkusen
+Ghana,Lawrence Ati-Zigi,Goalkeeper,29,1996-11-29,St. Gallen
+Ghana,Alidu Seidu,Defender,26,2000-06-04,Rennes
+Ghana,Caleb Yirenkyi,Midfielder,20,2006-01-15,Nordsjælland
+Ghana,Jonas Adjetey,Defender,22,2003-12-13,VfL Wolfsburg
+Ghana,Thomas Partey,Midfielder,32,1993-06-13,Villarreal
+Ghana,Abdul Mumin,Defender,28,1998-06-06,Rayo Vallecano
+Ghana,Abdul Fatawu,Forward,22,2004-03-08,Leicester City
+Ghana,Kwasi Sibo,Midfielder,27,1998-06-24,Oviedo
+Ghana,Jordan Ayew,Forward,34,1991-09-11,Leicester City
+Ghana,Brandon Thomas-Asante,Forward,27,1998-12-29,Coventry City
+Ghana,Antoine Semenyo,Midfielder,26,2000-01-07,Manchester City
+Ghana,Joseph Anang,Goalkeeper,26,2000-06-08,St Patrick's Athletic
+Ghana,Christopher Bonsu Baah,Forward,21,2004-12-14,Al-Qadsiah
+Ghana,Gideon Mensah,Defender,27,1998-07-18,Auxerre
+Ghana,Elisha Owusu,Midfielder,28,1997-11-07,Auxerre
+Ghana,Benjamin Asare,Goalkeeper,33,1992-07-13,Hearts of Oak
+Ghana,Abdul Rahman Baba,Defender,31,1994-07-02,PAOK
+Ghana,Jerome Opoku,Defender,27,1998-10-14,İstanbul Başakşehir
+Ghana,Iñaki Williams,Forward,31,1994-06-15,Athletic Bilbao
+Ghana,Augustine Boakye,Midfielder,25,2000-11-03,Saint-Étienne
+Ghana,Kojo Peprah Oppong,Defender,22,2004-06-04,Nice
+Ghana,Kamaldeen Sulemana,Forward,24,2002-02-15,Atalanta
+Ghana,Derrick Luckassen,Defender,30,1995-07-03,Pafos
+Ghana,Ernest Nuamah,Forward,22,2003-11-01,Lyon
+Ghana,Prince Kwabena Adu,Forward,22,2003-09-23,Viktoria Plzeň
+Ghana,Marvin Senaya,Defender,25,2001-01-28,Auxerre
+Panama,Luis Mejía,Goalkeeper,35,1991-03-16,Nacional
+Panama,César Blackman,Defender,28,1998-04-02,Slovan Bratislava
+Panama,José Córdoba,Defender,25,2001-06-03,Norwich City
+Panama,Fidel Escobar,Defender,31,1995-01-09,Saprissa
+Panama,Edgardo Fariña,Defender,24,2001-10-19,Pari Nizhny Novgorod
+Panama,Cristian Martínez,Midfielder,29,1997-02-06,Ironi Kiryat Shmona
+Panama,José Luis Rodríguez,Midfielder,27,1998-06-19,Juárez
+Panama,Adalberto Carrasquilla,Midfielder,27,1998-11-28,Pumas UNAM
+Panama,Tomás Rodríguez,Forward,27,1999-03-09,Saprissa
+Panama,Ismael Díaz,Midfielder,29,1997-05-12,León
+Panama,Yoel Bárcenas,Midfielder,32,1993-10-23,Mazatlán
+Panama,César Samudio,Goalkeeper,32,1994-02-23,Marathón
+Panama,Jiovany Ramos,Defender,29,1997-01-26,Puerto Cabello
+Panama,Carlos Harvey,Defender,26,2000-02-03,Minnesota United FC
+Panama,Eric Davis,Defender,35,1991-03-31,Plaza Amador
+Panama,Andrés Andrade,Defender,27,1998-10-16,LASK
+Panama,José Fajardo,Forward,32,1993-08-18,Universidad Católica
+Panama,Cecilio Waterman,Forward,35,1991-04-13,Universidad de Concepción
+Panama,Alberto Quintero,Midfielder,38,1987-12-18,Plaza Amador
+Panama,Aníbal Godoy,Midfielder,36,1990-02-10,San Diego FC
+Panama,César Yanis,Midfielder,30,1996-01-28,Cobresal
+Panama,Orlando Mosquera,Goalkeeper,31,1994-12-25,Al-Fayha
+Panama,Michael Amir Murillo,Defender,30,1996-02-11,Beşiktaş
+Panama,Azarias Londoño,Forward,24,2001-06-21,Universidad Católica
+Panama,Roderick Miller,Defender,34,1992-04-03,Turan Tovuz
+Panama,Jorge Gutiérrez,Defender,27,1998-09-01,Deportivo La Guaira

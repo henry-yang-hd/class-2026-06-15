@@ -1,0 +1,39 @@
+---
+
+title: "Age Distribution"
+format: html
+---
+
+```{r}
+#| label: setup
+#| message: false
+#| warning: false
+
+library(readr)
+library(ggplot2)
+```
+
+```{r}
+# Load the data
+data <- read_csv("all_world_cup_2026_squads.csv")
+
+# Inspect the first few rows
+head(data)
+```
+
+```{r}
+# Create a histogram of age
+
+ggplot(data, aes(x = age)) +
+  geom_histogram(
+    bins = 30,
+    color = "black",
+    fill = "steelblue"
+  ) +
+  labs(
+    title = "Distribution of Age",
+    x = "Age",
+    y = "Count"
+  ) +
+  theme_minimal()
+```
